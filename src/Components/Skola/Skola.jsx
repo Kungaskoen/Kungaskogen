@@ -43,8 +43,6 @@ const skola = props => (
         <p>Det finns en sluten Facebookgrupp som heter Kungaskogen som har uppkommit spontant genom användarna.
           På Facebook finns också Bioteater Vännerna i Kungaskogen, info och aktuell turnéplan.</p>
 
-        <a href="http://wasaplay.se/vannerna/">Texter om Kungaskogen gammal hemsida</a>
-
         <h4>Raffe Rävs brevlåda</h4>
         <p>Skriv och kommunicera med Raffe Räv.</p>
 
