@@ -1,8 +1,20 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## Kungaskogen
+
+1. Öppna terminalen
+
+I Terminal
+2. cd Desktop/Websida/Kungaskogen
+3. atom . (öppnar Atom-texteditor)
+4. npm start (för att öppna local server)
+
+I Atom
+5. Gör ändringar i filerna som ni vill (se på locala servern så att ni blir nöjda)
+
+(Nör nöjda med ändringar)
+I Terminal
+6. sh upload.sh (skriv in lösenord)
 
 ### `npm start`
 
