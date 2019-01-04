@@ -26,6 +26,6 @@ I Terminal <br>
 <br>
 I Terminal <br>
 2. cd Desktop/Websida/Kungaskogen <br>
-3. git add .
-4. git commit -m "(här skriver ni en meddelande om vad)"
-5. git push
+3. git add . <br>
+4. git commit -m "(här skriver ni en meddelande om vad)" <br>
+5. git push <br>
