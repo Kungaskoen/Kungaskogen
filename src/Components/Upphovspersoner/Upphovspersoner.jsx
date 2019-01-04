@@ -13,8 +13,8 @@ export default class Upphovspersoner extends Component {
             <Image src="images/upphovs/lisa.jpg" />
           </Col>
           <Col xs={12} sm={8} className="upphov-profile-text">
-            <h2>Författare</h2>
-            <h3>Lisa dos Santos (Grane)</h3>
+            <h3>Författare</h3>
+            <h4>Lisa dos Santos (Grane)</h4>
             <p>Lisa, 38 år, tog sin juristexamen vid Lunds Universitet och gjorde sin notarietjänst vid tingsrätten i Ystad. Lisa arbetar, vid sidan av sitt författarskap som kammaråklagare i Stockholm. Lisa förekommer då och då i TV programmet Brottsplatsen.
 
 Lisa debuterade som barnboksförfattare med bok - och musiksagan "Vännerna i Kungaskogen", där hon skrivit både sagan och musiktexterna. Lisa har också förekommit som textförfattare på Svensktoppen.
@@ -33,8 +33,8 @@ Lisas skrivintresse har alltid varit stort och hon har skrivit dikter, sagor och
             <Image src="images/upphovs/ingela.jpg" />
           </Col>
           <Col xs={12} sm={8} className="upphov-profile-text">
-            <h2>Illustratör</h2>
-            <h3>Ingela Bergmann</h3>
+            <h3>Illustratör</h3>
+            <h4>Ingela Bergmann</h4>
             <p>Ingela Bergmann, uppvuxen i Malmö, har tecknat och målat så länge hon kan minnas. Fyra års färg- och formstudier på Konstskolan Forum i Malmö. Två års grafisk utbildning i Lund. Medlem av Norske Billedkunstnere.
 
 Ingela har illustrerat barnböcker, bokomslag, affischer, träpussel och träspel för barn, gjort temperamålningar och akvareller samt illustrerat ett 10-tal olika lära-skriva-räkna-läsa-böcker till förskolan. - Idéer saknas inte och så länge som naturen bjuder på liv finns det färger och former som ger stoff åt nya bilder, säger Ingela. Efter att de senaste tiden bott i Tronheim i Norge har Ingela med familj flyttat tillbaka till Skåne och Lund.
@@ -46,8 +46,8 @@ Ingela har illustrerat barnböcker, bokomslag, affischer, träpussel och träspe
           <Col xs={12} sm={3} className="upphov-profile-pic">
           </Col>
           <Col xs={12} sm={8} className="upphov-profile-text">
-            <h2>Kompositör</h2>
-            <h3>Joc Lind</h3>
+            <h3>Kompositör</h3>
+            <h4>Joc Lind</h4>
             <p>
               Joc Lind (pseudonym). Arbetar med en mängd olika musikstilar allt från pianostycken, folkvisor, mello, old, barnvisor mm. Tycker att bra musik ska ha en tydlig melodi. En klassisk musikförebild är Chopin.
 
@@ -73,8 +73,8 @@ Ingela har illustrerat barnböcker, bokomslag, affischer, träpussel och träspe
           </Col>
 
           <Col xs={12} sm={8} className="upphov-profile-text">
-            <h2>Kompositör</h2>
-            <h3>Vilhelm Ersmark</h3>
+            <h3>Kompositör</h3>
+            <h4>Vilhelm Ersmark</h4>
             <p>
               Vilhelm har gjort några av musikstyckena till Kungaskogen samtidigt som han gjort arrangemang, sjungit och producerat huvuddelen av musiken till Kungaskogen. Kungaskogen har nu kommit in på nytt i Vilhelms värld då ett av hans tre barn sjunger och arbetar med Kungaskogen på förskolan. Ett bra kvitto på nedlagt jobb, säger Vilhelm.
 

@@ -1,4 +1,42 @@
-.show-book {
+.show-grid-book {
   width: 100%;
-  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.show-grid-book .show-book-1 {
+  margin: 20px 0;
+  flex: 0.95;
+}
+
+.show-grid-book .show-book-2 {
+  padding: 20px 0;
+  flex: 0.95;
+}
+
+.line-container {
+  display: flex;
+  justify-content: center;
+}
+
+.line {
+  height: 1px;
+  background-color: green;
+  width: 90%;
+  margin: 30px 0;
+}
+
+.book-image {
+  width: 100%;
+  height: auto;
+}
+
+.med-upp {
+  text-decoration: underline;
+}
+
+.show-grid-info a {
+  display: block;
+  text-decoration: underline;
 }

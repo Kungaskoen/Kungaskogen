@@ -7,12 +7,12 @@ export default class Forlag extends Component {
 
   render() {
     return (
-      <Grid className="show-grid">
+      <Grid>
         <Row>
-          <Col md="5">
+          <Col md="5" className="forlag-image">
             <Image src="images/ilkahuset_2012_big.jpg" responsive />
           </Col>
-          <Col md="7">
+          <Col md="5" mdOffset="1" className="forlag-info">
             <h3>Om förlaget</h3>
 
             <p>För många år sedan startades förlaget ILKA i Malmö. Affärsidén var rejäla och vettiga leksaker. Med tiden har affärsidén kompletterats med egna läromedel, böcker, hobby, inredning, musik mm. </p>
@@ -26,16 +26,17 @@ export default class Forlag extends Component {
             <p>Kungaskogen är idag vår enskilt största produkt i svensk förskola. </p>
 
 
-            <p>Välkommen till Förlagshuset Wasa, ILKA och Kungaskogen!</p>
+            <p><span className="bold">Välkommen till Förlagshuset Wasa, ILKA och Kungaskogen!</span></p>
 
-            <p>Förlagshuset Wasa/ILKA - Wasaplay</p>
-            <p>Box 4059  </p>
-            <p>203 11 Malmö  </p>
-            <p>Tel +46 40 120012 </p>
-            <p>idea@ilka.se  </p>
-            <p>org nr 556309 3961 </p>
+            <div className="compact">
+              <p>Förlagshuset Wasa/ILKA - Wasaplay</p>
+              <p>Box 4059  </p>
+              <p>203 11 Malmö  </p>
+              <p>+46 40-12 00 12 </p>
+              <p>idea@ilka.se  </p>
+              <p>org nr 556309 3961 </p>
 
-            <p>2018-12-12 kl 13.15</p>
+            </div>
           </Col>
         </Row>
       </Grid>

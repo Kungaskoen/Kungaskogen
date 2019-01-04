@@ -27,6 +27,55 @@ export default class Youtube extends Component {
       <div className="youtube-clip">
         <h3> Kungaskogen </h3>
 
+          <YouTube
+            videoId="09ERI0nDwY0"
+            opts={opts}
+            onReady={this._onReady}
+          />
+
+          <YouTube
+            videoId="zOtA5paf7cE"
+            opts={opts}
+            onReady={this._onReady}
+          />
+
+          <YouTube
+            videoId="Tbm9DHQ-izI"
+            opts={opts}
+            onReady={this._onReady}
+          />
+
+          <YouTube
+            videoId="AChEHJdyYE0"
+            opts={opts}
+            onReady={this._onReady}
+          />
+
+          <YouTube
+            videoId="5HDUwImaUkU"
+            opts={opts}
+            onReady={this._onReady}
+          />
+
+          <YouTube
+            videoId="LfrfYrt8C2c"
+            opts={opts}
+            onReady={this._onReady}
+          />
+
+          <YouTube
+            videoId="0o5Rup3jaoA"
+            opts={opts}
+            onReady={this._onReady}
+          />
+
+          <YouTube
+            videoId="CqnpETBQ4kY"
+            opts={opts}
+            onReady={this._onReady}
+          />
+
+
         <YouTube
           videoId="aio0JuN97Ic"
           opts={opts}

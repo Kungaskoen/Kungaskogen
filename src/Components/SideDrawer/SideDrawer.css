@@ -1,0 +1,46 @@
+.side-drawer {
+  height: 100%;
+  background-color: white;
+  box-shadow: -3px 0px 7px rgb(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0;
+  left: 30%;
+  width: 70%;
+  z-index: 200;
+  transform: translateX(100%);
+  transition: transform 0.3s ease-out;
+}
+
+
+.side-drawer ul {
+  height: 100%;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  /*justify-content: center;*/
+  margin: 3rem 0;
+}
+
+.side-drawer li {
+  margin: 0.5rem 0;
+}
+
+.side-drawer.open {
+  transform: translateX(0);
+}
+
+.side-drawer .side-main-menu .side-menu-item .side-dropdown-menu {
+  display: none;
+  margin: 0;
+  padding-left: 20px;
+}
+
+.side-drawer .side-main-menu .side-menu-item a {
+  color: green;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.side-drawer .side-main-menu .side-menu-item #show {
+  display: flex;
+}

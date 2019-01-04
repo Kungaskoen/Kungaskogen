@@ -1,5 +1,5 @@
 /* navbar */
-
+/*
 nav.navbar, .navbar-default {
   background-color: green !important;
   border-color: green !important;
@@ -131,7 +131,7 @@ nav.navbar, .navbar-default {
 .navbar-default .navbar-nav > .open > .dropdown-menu {
   display: none !important;
 }*/
-
+/*
 .navbar-default .navbar-toggle {
     border-color: white;
 
@@ -166,4 +166,4 @@ nav.navbar, .navbar-default {
     .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
           color: #333;
     }
-}
+}*/

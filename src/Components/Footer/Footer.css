@@ -1,106 +1,106 @@
-.footer-content {
+.footer-container {
+  display: flex;
+  align-items: center;
   background-color: green;
-  padding: 15px;
-}
-
-.footer-info-content {
-  float: left;
-  padding: 5px;
-}
-
-.footer-info-content h4 {
-  margin: 5px 0 2px 0;
-}
-
-.loga-ilka {
-  padding-top: 1.5em;
-  margin-left: 50px;
-  width: 80%;
-}
-
-.loga-wasa {
-  padding-top: 0.5em;
-  width: 90%;
-}
-
-.kundservice {
-  margin-left: 30px;
-  margin-right: 30px;
-}
-
-.footer-info {
-  padding: 0px;
-  text-align: left;
-  color: white;
-}
-
-.lang {
-  padding-top: 1px;
-}
-
-.dropdown-menu>li>a {
-    display: block;
-    padding: 3px 10px;
-    clear: both;
-    font-weight: 400;
-    line-height: 1.42857143;
-    color: #333;
-    white-space: nowrap;
-}
-
-#dropdown-size-medium {
-  background-image: none;
-  background-color: green;
-  color:white;
-  border: 0;
-  font-size: 17px;
-  font-weight: 300;
-  font-variant-caps: none;
-  font-style: normal;
-}
-
-#dropdown-size-medium:hover {
-  color:black;
-  text-shadow: none !important;
-}
-
-.footer-link {
-  color: white;
-}
-
-.footer-link:hover {
-  color: black;
-  text-decoration: none;
-}
-
-.footer-info p {
+  width: 100%;
+  padding: 10px 0;
   margin: 0;
 }
 
-@media (max-width: 768px){
+.footer-info h4 {
+  color: white;
+  font-weight: 16px;
+  font-weight: bold;
+  margin: 5px 0;
+}
 
-  .kundservice {
-    margin: 0;
+.footer-info ul {
+  display: flex;
+  list-style: none;
+  margin-bottom: 0;
+}
+
+.footer-info li {
+  padding: 10px;
+}
+
+.footer-info li p {
+  margin: 0;
+}
+
+.loga-wasa {
+  height: 50px;
+  width: auto;
+  padding-right: 50px;
+}
+
+.loga-ilka {
+  height: 23px;
+  width: auto;
+  padding-right: 50px;
+}
+
+.footer-container .spacer {
+  flex: 1;
+}
+
+.footer-info ul li .language-menu {
+  display: none;
+  background-color: white;
+  padding: 0;
+  color: green;
+}
+
+.footer-info ul li:hover .language-menu {
+  display: flex;
+}
+
+.footer-info ul li .language-menu li:hover{
+  background-color: #d7e2d7;
+}
+
+@media (max-width: 950px) {
+  .footer-container {
+    display: flex;
+    flex-direction: column;
   }
 
-  .footer-content {
-    padding: 15px;
+  .footer-info {
+    width: 100%;
   }
 
-  .footer-logo {
+  .footer-info ul{
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .footer-info ul li {
+    padding: 0;
     text-align: center;
   }
 
-  .loga-ilka {
-    padding: 10px 0 0 0;
-    margin: 0;
-    width: 50%;
+  .footer-info ul li p{
+    padding: 0;
+    text-align: center;
+  }
+
+  .footer-images {
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
   }
 
   .loga-wasa {
-    padding: 10px 0 0 0;
-    margin: 0;
-    width: 50%;
+    padding: 0;
+    margin-bottom: 10px;
   }
 
+  .loga-ilka {
+    padding: 0;
+    margin: 10px;
+  }
 }

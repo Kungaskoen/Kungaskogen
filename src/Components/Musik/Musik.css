@@ -1,0 +1,82 @@
+.musik-container {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  padding: 0 0 30px 0;
+}
+
+.musik-container .musik-image {
+  width: 55%;
+  margin: auto;
+}
+
+.youtube-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.youtube-container .youtube-link {
+  width: 310px;
+  height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}
+
+.youtube-container .vicka {
+  background-image: url('http://img.youtube.com/vi/09ERI0nDwY0/mqdefault.jpg');
+}
+
+.youtube-container .raknemagi {
+  background-image: url('http://img.youtube.com/vi/zOtA5paf7cE/mqdefault.jpg');
+}
+
+.youtube-container .mumsfilibabbasoppa {
+  background-image: url('http://img.youtube.com/vi/Tbm9DHQ-izI/mqdefault.jpg');
+}
+
+.youtube-container .jul {
+  background-image: url('http://img.youtube.com/vi/AChEHJdyYE0/mqdefault.jpg');
+}
+
+.youtube-container .bioteater {
+  background-image: url('http://img.youtube.com/vi/5HDUwImaUkU/mqdefault.jpg');
+}
+
+.youtube-container .mote {
+  background-image: url('http://img.youtube.com/vi/LfrfYrt8C2c/mqdefault.jpg');
+}
+
+.youtube-container .barn {
+  background-image: url('http://img.youtube.com/vi/0o5Rup3jaoA/mqdefault.jpg');
+}
+
+.youtube-container .pres {
+  background-image: url('http://img.youtube.com/vi/09ERI0nDwY0/mqdefault.jpg');
+}
+
+.youtube-container h4 {
+  margin: 0px auto;
+  color: black;
+  font-size: 15px;
+  text-align: center;
+}
+
+.youtube-container .youtube-link .youtube-icon {
+  width: 50px;
+  height: auto;
+  opacity: 0.8;
+}
+
+.youtube-container .youtube-link:hover .youtube-icon {
+  opacity: 1;
+}
+
+.social-link {
+  text-decoration: underline;
+  font-weight: bold;
+}

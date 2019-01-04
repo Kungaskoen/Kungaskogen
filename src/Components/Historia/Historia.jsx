@@ -8,13 +8,17 @@ export default class Historia extends Component {
   render() {
     return (
       <Grid className="show-grid">
-        <Row>
-          <Col md="7">
-            <Image src="images/historia.jpg" responsive/>
-          </Col>
-          <Col md="5">
+        <Row className="historia-img-container">
+          <div className="spacer"></div>
+          <div className="historia-img">
+            <Image src="images/historia_sd.jpg" responsive/>
+          </div>
+          <div className="spacer"></div>
+        </Row>
+        <Row className="historia-info-container">
+          <Col md="8" mdOffset="2" className="hist-col">
 
-            <h3>Vår historia – Hur Kungaskogen kom till</h3>
+            <h3>Vår historia</h3>
 
             <p>En dag samlades ett team på förlaget ILKA i Malmö för att göra en visa om vänskap. Texten skrevs och när dagen var slut var melodin också klar. Vännervisan hade fått liv. Visan tycktes internt vara så bra att det bestämdes att skriva en hel saga med vänskapstema. </p>
 

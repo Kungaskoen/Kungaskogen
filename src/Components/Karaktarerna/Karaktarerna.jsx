@@ -1,65 +1,57 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
-import { Jumbotron, Grid, Row, Col, Image, Button } from 'react-bootstrap';
+import { Image } from 'react-bootstrap';
 import './Karaktarerna.css'
 
 export default class Karaktarerna extends Component {
 
   render() {
     return (
-      <Grid>
-        <Row className="text-center">
-          <Col xs={12} sm={4} className="person-wrapper">
-            <Image src="images/karaktarerna_2/rafferav.jpg" className="profile-pic" />
+      <div className="caracters-container">
+        <div className="caracter-row">
+          <div className="caracter">
+            <Image src="images/caracters/raffe_bubbla.jpg" className="profile-pic" />
             <h3>Raffe Räv</h3>
-            <p>Lite text om Raffe Räv</p>
-          </Col>
-          <Col xs={12} sm={4} className="person-wrapper">
-            <Image src="images/karaktarerna_2/snack.jpg" className="profile-pic" />
+          </div>
+          <div className="caracter">
+            <Image src="images/caracters/snack_bubbla.jpg" className="profile-pic" />
             <h3>Snack</h3>
-            <p>Lite text om Raffe Räv</p>
-          </Col>
-          <Col xs={12} sm={4} className="person-wrapper">
-            <Image src="images/karaktarerna_2/snick.jpg" className="profile-pic" />
+          </div>
+          <div className="caracter">
+            <Image src="images/caracters/snick_bubbla.jpg" className="profile-pic" />
             <h3>Snick</h3>
-            <p>Lite text om Raffe Räv</p>
-          </Col>
-        </Row>
-        <Row className="text-center">
-          <Col xs={12} sm={4} className="person-wrapper">
-            <Image src="images/karaktarerna_2/algvis.jpg" className="profile-pic" />
-            <h3>Algvis</h3>
-            <p>Lite text om Raffe Räv</p>
-          </Col>
-          <Col xs={12} sm={4} className="person-wrapper">
-            <Image src="images/karaktarerna_2/bitis.jpg" className="profile-pic" />
+          </div>
+        </div>
+
+        <div className="caracter-row">
+          <div className="caracter">
+            <Image src="images/caracters/algvis_bubbla.jpg" className="profile-pic" />
+            <h3>Älgvis</h3>
+          </div>
+          <div className="caracter">
+            <Image src="images/caracters/bitis_bubbla.jpg" className="profile-pic" />
             <h3>Bitis</h3>
-            <p>Lite text om Raffe Räv</p>
-          </Col>
-          <Col xs={12} sm={4} className="person-wrapper">
-            <Image src="images/karaktarerna_2/gronilla.jpg" className="profile-pic" />
+          </div>
+          <div className="caracter">
+            <Image src="images/caracters/gronilla_bubbla.jpg" className="profile-pic" />
             <h3>Gronilla</h3>
-            <p>Lite text om Raffe Räv</p>
-          </Col>
-        </Row>
-        <Row className="text-center">
-          <Col xs={12} sm={4} className="person-wrapper">
-            <Image src="images/karaktarerna_2/hotta.jpg" className="profile-pic" />
+          </div>
+        </div>
+
+        <div className="caracter-row">
+          <div className="caracter">
+            <Image src="images/caracters/hotta_bubbla.jpg" className="profile-pic" />
             <h3>Hotta</h3>
-            <p>Lite text om Raffe Räv</p>
-          </Col>
-          <Col xs={12} sm={4} className="person-wrapper">
-            <Image src="images/karaktarerna_2/maraca.jpg" className="profile-pic" />
+          </div>
+          <div className="caracter">
+            <Image src="images/caracters/maraca_bubbla.jpg" className="profile-pic" />
             <h3>Maraca</h3>
-            <p>Lite text om Raffe Räv</p>
-          </Col>
-          <Col xs={12} sm={4} className="person-wrapper">
-            <Image src="images/karaktarerna_2/silke.jpg" className="profile-pic" />
+          </div>
+          <div className="caracter">
+            <Image src="images/caracters/silke_bubbla.jpg" className="profile-pic" />
             <h3>Silke</h3>
-            <p>Lite text om Raffe Räv</p>
-          </Col>
-        </Row>
-      </Grid>
+          </div>
+        </div>
+      </div>
     )
   }
 }

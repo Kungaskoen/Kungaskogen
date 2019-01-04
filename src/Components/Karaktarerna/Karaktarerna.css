@@ -14,3 +14,14 @@
 .person-wrapper {
   padding: 50px;
 }
+
+.caracter-row {
+  padding: 20px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.caracter h3{
+  text-align: center;
+}

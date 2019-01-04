@@ -1,0 +1,17 @@
+.integritet-container {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  padding: 30px 0;
+}
+
+.integritet-container .integritet-image {
+  margin: auto;
+}
+
+.integritet-container .integritet-info {
+  width: 80%;
+  max-width: 800px;
+  margin: auto;
+}

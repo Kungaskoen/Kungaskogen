@@ -1,0 +1,43 @@
+.medverkande-container {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  margin: auto;
+  padding: 30px 0;
+}
+
+.medverkande-container .medverkande-image {
+  width: 50%;
+  margin: auto;
+}
+
+.medverkande-container .medverkande-info-container {
+  display: flex;
+}
+
+.medverkande-container .medverkande-info-container .medverkande-info {
+  width: 50%;
+}
+
+.medverkande-container {
+  padding-bottom: 20px;
+}
+
+.medverkande-container h2 {
+  font-weight: bold;
+  color: green;
+}
+
+.medverkande-container h3 {
+  font-size: 24px;
+  color: black;
+}
+
+.medverkande-container h4 {
+
+}
+
+.medverkande-container p {
+  margin: 0;
+  padding: 0;
+}

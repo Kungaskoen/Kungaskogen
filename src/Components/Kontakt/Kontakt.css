@@ -1,3 +1,15 @@
-.contact {
-  text-align: center;
+.kontakt-container {
+  display: flex;
+  justify-content: space-around;
+  width: 55%;
+  margin: auto;
+  padding: 30px 0;
+}
+
+.kontakt-container .kontakt-image {
+  width: 20%;
+}
+
+.kontakt-container .kontakt-info {
+  width: 50%;
 }

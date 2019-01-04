@@ -1,0 +1,26 @@
+.skola-container {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  align-items: center;
+  padding: 30px 0;
+}
+
+.skola-container .skola-image {
+  width: 40%;
+}
+
+.skola-container .skola-info {
+  width: 90%;
+}
+
+.skola-container .skola-info a {
+  text-decoration: underline;
+  padding: 10px 0;
+  display: inline-block;
+}
+
+.skola-container .skola-info .compact a{
+  padding: 0;
+}

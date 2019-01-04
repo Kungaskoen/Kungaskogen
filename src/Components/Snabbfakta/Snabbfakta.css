@@ -1,0 +1,13 @@
+.snabbfakta-image-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.snabbfakta-image-container .snabbfakta-image {
+  margin: 15px 0;
+  flex:0.8;
+}
+
+.snabbfakta-info .snabbfakta-info-container{
+  padding: 0;
+}

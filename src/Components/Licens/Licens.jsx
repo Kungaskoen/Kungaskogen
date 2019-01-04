@@ -9,13 +9,13 @@ export default class Licens extends Component {
     return (
       <Grid>
         <Row>
-          <Col md="8" mdOffset="2">
+          <Col md="6" mdOffset="3" className="licens-image-container">
             <Image src="images/licensbild.jpg" responsive/>
           </Col>
         </Row>
         <Row>
-          <Col className="text-licens">
-            <h3>Företag, arrangörer, producenter mm </h3>
+          <Col md="8" mdOffset="2" className="text-licens">
+            <h3>Företag, agenter, arrangörer, producenter mm </h3>
 
             <p>”Vännerna i Kungaskogen”, sagoböcker, sånger, CD skivor, appar, bioteater, har på rekordtid tagit plats i den klassiska skandinaviska barnboksvärlden genom att över 9000 förskolor i Sverige använder sagan.</p>
 
@@ -32,13 +32,17 @@ export default class Licens extends Component {
 
             <p>Alla rättigheter till Kungaskogen finns hos Förlagshuset Wasa och ILKA Förlagsprodukter AB.</p>
 
-            <p>Licensförfrågningar: Vänligen kontakta</p>
-            <p>ILKA Förlagsprodukter AB, Box 4059, 203 11 Malmö,</p>
-            <p>idea@ilka.se tel 040 120012.</p>
-
-
-            <p>Välkommen till Kungskogen!</p>
-            <p>Förlagshuset Wasa/ILKA</p>
+            <p><span className="bold">För licensförfrågningar, vänligen kontakta</span></p>
+            <div className="compact">
+              <p>ILKA Förlagsprodukter AB</p>
+              <p>Box 4059</p>
+              <p>203 11 Malmö</p>
+              <p>idea@ilka.se</p>
+              <p>+46 40-12 00 12</p>
+              <br/>
+              <p>Välkommen till Kungaskogen!</p>
+              <p>Förlagshuset Wasa/ILKA</p>
+            </div>
           </Col>
         </Row>
       </Grid>
