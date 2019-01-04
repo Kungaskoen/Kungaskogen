@@ -2,7 +2,7 @@
 
 ## Kungaskogen
 
-### Göra ändringar i text
+### Göra ändringar i text på hemsidan
 
 1. Öppna terminalen <br>
 <br>
@@ -17,7 +17,7 @@ I Atom <br>
 (Nör nöjda med ändringar) <br>
 I Terminal <br>
 6. ctrl c (för att stänga av lokala servern) <br>
-6. sh upload.sh (skriv in lösenord) <br>
+7. sh upload.sh (lägga upp på webservern)(skriv in lösenord) <br>
 
 
 ### Uppdatera filer på github
