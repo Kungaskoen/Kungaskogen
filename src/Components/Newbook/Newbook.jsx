@@ -12,7 +12,7 @@ const newbook = props => (
 
     <div className="newbook-info">
 
-      <h3>Hur ser nästa bok om kungaskogen ut om barnen får bestämma?</h3>
+      <h3>Hur ser nästa bok om Kungaskogen ut om barnen får bestämma?</h3>
 
       <h4>Vilka nya berättelser vill barnen höra om Snick och Snack och Vännerna i Kungaskogen?</h4>
 

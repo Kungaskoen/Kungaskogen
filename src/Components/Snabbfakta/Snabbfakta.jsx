@@ -19,9 +19,9 @@ const snabbfakta = props => (
 
       <p> Kungaparet har fått musiken från Kungaskogen framförd för sig personligen i ett specialuppträdande med barn inför Kungen och Drottning Silvia.</p>
 
-      <p> Vännerna i Kungaskogen är värdegrundande med buskapen ”att vara schysst och en bra kompis”, empati och vi är olika med lika bra.</p>
+      <p> Vännerna i Kungaskogen är värdegrundande med budskapen ”att vara schysst och en bra kompis”, empati och vi är olika men lika bra.</p>
 
-      <p> Handling: Hur man är mot andra, vara rädd om naturen, livsstil, hälsa, miljö, hållbart.</p>
+      <p> Handling: Vänskap, att vara schysst och en bra kompis, vara rädd om naturen, livsstil, hälsa, miljö, hållbarhet.</p>
 
       <p> Börje Ahlstedt är berättare i den första boken.</p>
 
@@ -30,7 +30,7 @@ const snabbfakta = props => (
       <p> Över 30 musiker och 15 skådespelare medverkar i de olika
         produktionerna.</p>
 
-      <p> Vännerna i Kungaskogen spelas som bioteater över hela Sverige och alla föreställningar är för de mesta utsålda. Förra året sågs föreställningarna av 20 000 barn på 47 platser i Sverige.</p>
+      <p> Vännerna i Kungaskogen spelas som bioteater över hela Sverige och alla föreställningar är för det mesta utsålda. Förra året sågs föreställningarna av 20 000 barn på 47 platser i Sverige.</p>
 
       <p> YouTube: Sökord "Kungaskogen" eller "Raffe räv" Appstore: Sökord "Kungaskogen"</p>
 
@@ -42,10 +42,10 @@ const snabbfakta = props => (
 
       <p> Kungaskogen är just nu Sveriges största barnbokssatsning med musik.</p>
 
-      <p> Kringprodukter har tagits fram kring sagan men det finns många fler möjligheter. Senaste produkter: Memo, Handdockor, Appar, Almackstavla.</p>
+      <p> Kringprodukter har tagits fram kring sagan men det finns många fler möjligheter. Senaste produkter: Memo, Handdockor, Appar, Almanackstavla.</p>
 
       <p>Över 9000 förskolor i Sverige har Kungaskogen.</p>
-      <p>Över 1 000 000 barn har mött sagofigurerna och musiken.</p>
+      <p>Nära en miljon barn har mött sagofigurerna och musiken.</p>
 
       <p>Kompisarna i Kungaskogen är goda förebilder som
         barnen älskar och relaterar till i sin lek.</p>

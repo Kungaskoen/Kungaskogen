@@ -23,11 +23,10 @@ const skola = props => (
 
         <h4>Förskola/skola</h4>
 
-        <p>Över 9000 förskola/skola arbetar med materialet ”Snick och Snack Vännerna i Kungaskogen”. Många använder materialet som genom-gående tema år efter år och Snick och Snack genomsyrar hela verksamheten. Sagan bygger ju och stärker relationer. Berättelserna är
+        <p>Över 9000 förskolor/skolor arbetar med materialet ”Snick och Snack Vännerna i Kungaskogen”. Många använder materialet som genomgående tema år efter år och Snick och Snack genomsyrar hela verksamheten. Sagan bygger ju och stärker relationer. Berättelserna är
           händelser som barnen enkelt kan relatera till! Och det är viktigt med empati och att alla får en bra värdegrund. Konfliktlösnsing blir också
 
-          enklare när man kan relatera till alla händelser i Kungaskogen och hur Snack och Snack gjorde. Sången och musiken stärker upp budska-
-          pen!
+          enklare när man kan relatera till alla händelser i Kungaskogen och hur Snack och Snack gjorde. Sången och musiken stärker upp budskapen!
 
           Förskola/skola beställer materialet genom www.wasaplay.se tel 040-12 00 12 eller www.ilka.se eller tel 0526-108 80
           Webbshop </p>
@@ -37,8 +36,7 @@ const skola = props => (
           sagan: vänskap, kompisar, empati, värdegrunder, djur, natur, hållbart, språk, dans, musik, matte, teknik, miljö, livsstil, hälsa, olika kulturer,
           dialekter, årstider, högtider mm.
           Högläsning - samtal - sång - lek - aktiviteter ute och inne - pyssel - drama - teater. Googla gärna på några sökord: kungaskogen, snick och
-          snack, älgvis, bitis, Raffe räv</p>
-        haha detta är något roligt
+          snack, älgvis, bitis, Raffe räv.</p>
         <h4>Sociala medier</h4>
         <p>Det finns en sluten Facebookgrupp som heter Kungaskogen som har uppkommit spontant genom användarna.
           På Facebook finns också Bioteater Vännerna i Kungaskogen, info och aktuell turnéplan.</p>

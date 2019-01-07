@@ -13,14 +13,14 @@ const fragor = props => (
       <div className="compact">
         <h3>Vanliga frågor</h3>
 
-        <h4>Hur många Böcker finns det?</h4>
+        <h4>Hur många böcker finns det?</h4>
         <p>Det finns två böcker. Bok nr 1 ”Vännerna i Kungaskogen bygger en koja” (48 sid). Förlaget brukar kalla den Kojan. Bok nr 2 ”Vännerna i Kungaskogen går på utflykt” (86 sid). Förlaget brukar
           kalla den Utflykt.</p>
 
         <h4>Hur många accesser finns det?</h4>
         <p>Det finns en access till Bok nr 1 Kojan och en till Bok nr 2 Utflykt.</p>
 
-        <h4>Boken Vad ingår i själva boken?</h4>
+        <h4>Vad ingår i själva boken?</h4>
         <p>I boken ingår bildberättelse, CD skivor (kan köpas till på APP), sångbok med noter, texter och ackordanalyser.</p>
 
         <h4>Kan man jobba med båda böckerna samtidigt?</h4>
@@ -43,7 +43,7 @@ const fragor = props => (
         <p>Barnens almanackstavla Calendo, Memo Kungaskogen, Pussel Kungaskogen, Appar, Pärlplattor Kungaskogen, Handdockor Kungaskogen, Kungaskogen Uppdragstavla, mm</p>
 
         <h4>Kan man bara köpa boken?</h4>
-        <p>Ja, om man har gällande access. Om man inte har det som hänvisar vi till våra Temapaket. OBS Priset för lös bok är ett extrapris. ”Boken” består ju av bilderättelser, sångbok och musikproduktion
+        <p>Ja, om man har gällande access. Om man inte har det så hänvisar vi till våra Temapaket. OBS Priset för lös bok är ett extrapris. ”Boken” består ju av bildberättelser, sångbok och musikproduktion
           på flera timmar. Ett sådan bok skulle kosta betydligt mera men vi håller priset lågt så att flera avdelningar kan ha en egen bok.</p>
 
         <h4>Kan man köpa boken privat?</h4>
@@ -77,7 +77,7 @@ const fragor = props => (
         <p>Ca 8000 i Sverige.</p>
 
         <h4>Varför är Kungaskogen förskolans med använda värdegrundsmaterial?</h4>
-        <p>Sagan och musiken går direkt in hos barnen. Sagan är skriven på 2000 talet för de barn som växer upp idag. Många sagor är skrivna för länge sedan och kanske inte alltid är anpassade för
+        <p>Sagan och musiken går direkt in hos barnen. Sagan är skriven på 2000-talet för de barn som växer upp idag. Många sagor är skrivna för länge sedan och kanske inte alltid är anpassade för
           dagens barn. Materialet inbjuder till stor kreativitet hos både vuxna och barn. Det är lått att föra budskap och värdegrunder vidare med sagan som utgångspunkt.</p>
 
         <h4>Vilka teman kan man jobba med när man använder Kungaskogen?</h4>

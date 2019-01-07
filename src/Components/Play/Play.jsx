@@ -94,7 +94,7 @@ const play = props => (
           Sverige med hela 120 utsålda föreställningar. 20 000 barn kom
           till föreställningarna med sina pedagoger som ger formen och
           teaterupplevelsen på bioduk de allra högsta omdömena en
-          barnföreställning kan uppnå. Turnén forter turnén nu för 5 året i rad.
+          barnföreställning kan uppnå. Turnén fortsätter nu för 5 året i rad.
           Vi besöker återigen både små kommuner och stora kommuner.</p>
         <p>Turnén finns på våra hemsidor och på YouTube.</p>
 

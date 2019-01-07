@@ -15,7 +15,7 @@ const ovriga = props => (
       <h4>Musiker/artister</h4>
 
       <p>Sagan om Vännerna i Kungaskogen är ju en saga som låter med hela 34 sånger. Ta gärna kontakt med förlaget om ni vill framföra vår
-        musik. Vi hjälper er med noter, texter, ackordanalyser och underlag. Låtlista</p>
+        musik. Vi hjälper er med noter, texter, ackordanalyser och underlag.</p>
 
       <h4>Barngympa</h4>
       <p>Den moderna och medryckande musiken till Kungaskogen passar till rörelser och dans. Ta gärna kontakt med förlaget om ni vill använda
