@@ -1,10 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { Image } from 'react-bootstrap';
 
 import './Press.css';
 
 const press = props => (
-  <div className="press-container">
+  <div className="column-container">
 
     <div className="press-info compact">
       <h3>Press</h3>
@@ -39,8 +39,12 @@ const press = props => (
       <p>040-120012 Ulf</p>
       <p>idea@ilka.se</p>
 
-      <a href="" >Trailer Bioteater Kungaskogen</a>
-      <a href="" >Lyssna när 800 glada barn och vuxna blir vänner med djurkompisarna i kungaskogen</a>
+      <a href="https://www.youtube.com/watch?v=5HDUwImaUkU" target="_blank" rel="noopener noreferrer">
+        Trailer Bioteater Kungaskogen
+      </a>
+      <a href="https://www.youtube.com/watch?v=LfrfYrt8C2c" target="_blank" rel="noopener noreferrer">
+        Lyssna när 800 glada barn och vuxna blir vänner med djurkompisarna i kungaskogen
+      </a>
 
       <h4>Åklagare skrev förskolans mest använda sagobok</h4>
 

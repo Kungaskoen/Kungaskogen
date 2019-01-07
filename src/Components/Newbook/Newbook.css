@@ -1,0 +1,12 @@
+.column-container .newbook-image {
+  width: 100%;
+}
+
+.column-container .newbook-image .image-full {
+  width: 100%;
+}
+
+.column-container .newbook-info {
+  padding: 20px;
+  width: 100%;
+}

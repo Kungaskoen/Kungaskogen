@@ -1,13 +1,12 @@
-.text-licens {
-  padding-left: 40px;
-  padding-right: 40px;
-  text-align: center;
+.column-container .licens-image {
+  width: 50%;
+  margin: auto;
 }
 
-.licens-image-container {
-  padding: 20px 0;
-}
+@media (max-width: 950px) {
 
-.text-licens {
-  padding-bottom: 30px;
+  .column-container .licens-image {
+    width: 100%;
+  }
+
 }

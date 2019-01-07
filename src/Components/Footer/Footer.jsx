@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import { Jumbotron, Grid, Row, Col, Image, Button, ButtonToolbar, DropdownButton, MenuItem } from 'react-bootstrap';
+import { Image } from 'react-bootstrap';
 import './Footer.css'
 
 export default class Footer extends Component {
@@ -18,11 +18,6 @@ export default class Footer extends Component {
             <li>
               <Link to="/kontakt" className="footer-link">
                 <h4> Kontakt </h4>
-              </Link>
-            </li>
-            <li>
-              <Link to="/integritet" className="footer-link">
-                <h4> Integritet </h4>
               </Link>
             </li>
             <li>

@@ -1,16 +1,25 @@
-.nyheter-container {
-  width: 80%;
+.row-container .nyheter-image {
   display: flex;
-  margin: auto;
-  justify-content: space-around;
-  padding: 30px 0;
-}
-
-
-.nyheter-container .nyheter-image {
-  width: 40%;
-}
-
-.nyheter-container .nyheter-info {
+  flex-direction: column;
+  justify-content: center;
   width: 50%;
+}
+
+.row-container .nyheter-info {
+  width: 45%;
+}
+
+@media (max-width: 950px) {
+
+  .nyheter {
+    flex-direction: column;
+  }
+
+  .row-container .nyheter-image {
+    width: 100%;
+  }
+
+  .row-container .nyheter-info {
+    width: 100%;
+  }
 }

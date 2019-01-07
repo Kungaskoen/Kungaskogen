@@ -1,19 +1,15 @@
-import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
-import { Jumbotron, Grid, Row, Col, Image, Button } from 'react-bootstrap';
+import React from 'react';
+import { Image } from 'react-bootstrap';
+
 import './Home.css'
 
-export default class Home extends Component {
+const home = props => (
 
-  render() {
-    return (
-      <Grid>
-        <Row>
-          <Col>
-            <Image src="images/wwwkungaskogen_2000_snicksnack_emblem_2.jpg" responsive className="intro"/>
-          </Col>
-        </Row>
-      </Grid>
-    )
-  }
-}
+  <div className="home-image">
+    <Image src="images/Framsida/wwwkungaskogen_2000_snicksnack_emblem_2.jpg" className="intro-normal"/>
+    <Image src="images/Framsida/wwwkungaskogen_sid1_mobil_mindre.jpg"  className="intro-mobile"/>
+  </div>
+
+)
+
+export default home;

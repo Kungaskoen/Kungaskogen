@@ -1,17 +1,14 @@
-.language-container {
-  width: 80%;
-  margin: auto;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 30px 0;
+.column-container .line {
+  width: 90%;
+  margin: 80px auto;
 }
 
-.language-container .line {
-  margin: 80px 0;
+.lang a {
+  text-align: center;
 }
 
-.language-container .language-info a {
+.column-container .language-info a {
+  text-align: left;
   display: block;
   text-decoration: underline;
 }

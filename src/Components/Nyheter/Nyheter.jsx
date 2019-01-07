@@ -1,10 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { Image } from 'react-bootstrap';
 
 import './Nyheter.css';
 
 const nyheter = props => (
-  <div className="nyheter-container">
+  <div className="row-container nyheter">
     <div className="nyheter-image">
       <Image src="images/Ovrigt/nyheter.jpg" responsive></Image>
     </div>

@@ -3,18 +3,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-}
-
-.produkter-container h2 {
-  font-weight: bold;
-}
-
-.produkter-container  .produkter-header {
-  color: green;
-}
-
-.produkter-container .line {
-  align-self: center;
+  padding: 30px 0;
 }
 
 .produkter-container .produkter-intro {
@@ -22,13 +11,7 @@
 }
 
 .produkter-container .produkter-intro a {
-  color: green;
-  text-decoration: underline;
   font-size: 16px;
-}
-
-.produkter-container .produkter-intro a:hover {
-  color: #013d01;
 }
 
 .produkter-container .produkt-big {
@@ -66,12 +49,45 @@
   justify-content: space-around;
   width: 90%;
   padding: 10px 0;
+  flex-wrap: wrap;
 }
 
 .produkter-container .produkt-rest .rest-item {
-  flex: 0.2;
+  width: 20%;
 }
 
 .produkter-container .produkt-rest .rest-item p {
   margin: 0;
+}
+
+.produkter-header-mobile {
+  display: none;
+}
+
+@media (max-width: 950px) {
+
+  .produkter-container .almanacka {
+    width: 90%;
+    flex-direction: column;
+  }
+
+  .produkter-container .almanacka .almanacka-image {
+    width: 100%;
+  }
+
+  .produkter-container .almanacka .almanacka-info {
+    width: 100%;
+  }
+
+  .produkter-container .produkt-rest .rest-item {
+    width: 45%;
+  }
+
+  .produkter-header-normal {
+    display: none;
+  }
+
+  .produkter-header-mobile {
+    display: block;
+  }
 }

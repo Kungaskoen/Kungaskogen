@@ -1,9 +1,10 @@
 .footer-container {
+  position: fixed;
+  bottom: 0px;
   display: flex;
   align-items: center;
   background-color: green;
   width: 100%;
-  padding: 10px 0;
   margin: 0;
 }
 
@@ -12,6 +13,10 @@
   font-weight: 16px;
   font-weight: bold;
   margin: 5px 0;
+}
+
+.footer-info a:hover {
+  text-decoration: none;
 }
 
 .footer-info ul {
@@ -60,6 +65,12 @@
 }
 
 @media (max-width: 950px) {
+
+  .footer-container {
+    position: static;
+
+  }
+
   .footer-container {
     display: flex;
     flex-direction: column;

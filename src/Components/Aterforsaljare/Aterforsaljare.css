@@ -1,20 +1,34 @@
-.aterforsaljare-container {
-  display: flex;
-  height: 100%;
-
+.row-big-container .aterforsaljare-image {
+  width: 55%;
 }
 
-.aterforsaljare-image {
-  flex:1.5;
-}
-
-.aterforsaljare-info {
-  flex:1;
+.row-big-container .aterforsaljare-info {
+  width: 35%;
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
 
-.aterforsaljare-info p {
-  margin: 0;
+@media (max-width: 950px) {
+  .aterfor {
+    flex-direction: column;
+  }
+
+  .row-big-container .aterforsaljare-image {
+    width: 90%;
+    margin: auto;
+  }
+
+  .row-big-container .aterforsaljare-info {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    padding-bottom: 30px;
+  }
+
+  .spacer-ater {
+    display: none;
+  }
 }

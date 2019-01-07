@@ -1,41 +1,44 @@
-.bioteater-container {
-  display: flex;
-  flex-direction: column;
-  width: 70%;
-  margin: auto;
-  padding: 0px 0 30px 0;
-}
-
-.bioteater-container .bioteater-image{
-  width: 65%;
+.column-container .bioteater-image{
+  width: 55%;
   align-self: center;
 }
 
-.bioteater-container h3 {
-  padding-top: 30px;
-}
-
-.bioteater-container a {
-  font-weight: bold;
+.column-container .bioteater-info a {
+  display: inline;
   font-size: 20px;
-  text-decoration: underline;
 }
 
-.bioteater-container .bioteater-slut {
+.column-container .bioteater-info .bioteater-slut {
   display: flex;
   justify-content: space-between;
 }
 
-.bioteater-container .bioteater-slut .bioteater-slut-image {
+.column-container .bioteater-info .bioteater-slut .bioteater-slut-image {
   width: 40%;
   margin-top: auto;
   margin-bottom: auto;
 }
 
-.bioteater-container .bioteater-slut .bioteater-slut-info {
+.column-container .bioteater-info .bioteater-slut .bioteater-slut-info {
   width: 55%;
 }
 
-.bioteater-container .publik-tycker {
-  font-style: italic;
+@media (max-width: 950px) {
+
+  .column-container .bioteater-image{
+    width: 100%;
+  }
+
+  .column-container .bioteater-info .bioteater-slut {
+    flex-direction: column;
+  }
+
+  .column-container .bioteater-info .bioteater-slut .bioteater-slut-image {
+    width: 100%;
+  }
+
+  .column-container .bioteater-info .bioteater-slut .bioteater-slut-info {
+    width: 100%;
+  }
+
 }

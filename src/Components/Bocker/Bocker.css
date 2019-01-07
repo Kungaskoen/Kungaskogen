@@ -1,42 +1,12 @@
-.show-grid-book {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-}
-
-.show-grid-book .show-book-1 {
-  margin: 20px 0;
-  flex: 0.95;
-}
-
-.show-grid-book .show-book-2 {
-  padding: 20px 0;
-  flex: 0.95;
-}
-
-.line-container {
-  display: flex;
-  justify-content: center;
-}
-
-.line {
-  height: 1px;
-  background-color: green;
+.column-big-container .book-image {
   width: 90%;
-  margin: 30px 0;
+  margin: auto;
 }
 
-.book-image {
-  width: 100%;
-  height: auto;
+.column-big-container .column-big-info {
+  width: 70%;
 }
 
-.med-upp {
-  text-decoration: underline;
-}
-
-.show-grid-info a {
-  display: block;
-  text-decoration: underline;
+.column-big-container .column-big-info a {
+  display: inline;
 }

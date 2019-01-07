@@ -1,11 +1,11 @@
-import React, { Component } from 'react';
+import React from 'react';
 import {Image} from 'react-bootstrap';
 
 import './Raffe.css';
 
 
 const raffe = props => (
-  <div className="raffe-container">
+  <div className="row-container raffe">
       <div className="raffe-image">
         <Image src="images/Teater/rafferavhalsarpa.jpg" responsive/>
       </div>
@@ -20,7 +20,7 @@ const raffe = props => (
         <p>Barnen är med i föreställningen med dialog, dans, sång och rörelser. Föreställningen är hämtad ur böckerna om ”Vännerna i Kungaskogen”.</p>
 
         <div className="compact">
-          <a href="">Länk Raffe Räv hälsar på</a>
+          <a href="https://iqpager.quid.eu//books/iqpager/6133qT8tdb9Xay7XBS1z61331rcIz3h1IL#page/2%22" target="_blank" rel="noopener noreferrer">Raffe Räv hälsar på</a>
           <p>I länken finns all information om föreställningen, pris etc.</p>
         </div>
 

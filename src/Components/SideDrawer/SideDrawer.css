@@ -36,11 +36,21 @@
 }
 
 .side-drawer .side-main-menu .side-menu-item a {
+  font-size: 24px;
   color: green;
   font-weight: bold;
   text-decoration: none;
 }
 
+.side-drawer .side-main-menu .side-menu-item .side-dropdown-menu a {
+  font-size: 16px;
+}
+
 .side-drawer .side-main-menu .side-menu-item #show {
   display: flex;
+}
+
+.access a {
+  text-decoration: none;
+  font-size: 24px;
 }

@@ -1,21 +1,25 @@
-.radio-container {
-  width: 80%;
-  display: flex;
-  flex-direction: column;
-  margin: auto;
-  padding: 30px 0;
-}
-
-.radio-container .radio-image {
-  width: 50%;
+.column-container .radio-image {
+  width: 40%;
   margin: auto;
 }
 
-.radio-container .radio-info {
+.column-container .radio-info {
   width: 80%;
   margin: auto;
 }
 
-.radio-container .radio-info a {
-  text-decoration: underline;
+.column-container .radio-info a {
+  display: inline;
+}
+
+@media (max-width: 950px) {
+
+  .column-container .radio-info {
+    width: 100%;
+  }
+
+  .column-container .radio-image {
+    width: 100%;
+  }
+
 }

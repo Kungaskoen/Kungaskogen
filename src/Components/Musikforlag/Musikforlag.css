@@ -1,24 +1,32 @@
-.musikforlag-container {
-  width: 90%;
-  display: flex;
-  padding: 30px 0;
-  margin: auto;
+
+.row-big-container .musikforlag-image {
+  width: 40%;
 }
 
-
-.musikforlag-container .musikforlag-image {
-  width: 50%;
-}
-
-.musikforlag-container .musikforlag-info {
-  width: 50%;
-}
-
-.padding-top {
-  padding-top: 10px;
+.row-big-container .musikforlag-info {
+  width: 40%;
 }
 
 #musik-logga {
   width: 130px;
   padding: 10px 0;
+}
+
+@media (max-width: 950px) {
+
+  .musikforlag {
+    flex-direction: column;
+    width: 80%;
+    margin: auto;
+    padding: 30px 0;
+  }
+
+  .row-big-container .musikforlag-image {
+    width: 100%;
+  }
+
+  .row-big-container .musikforlag-info {
+    width: 100%;
+  }
+
 }

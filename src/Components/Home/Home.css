@@ -1,17 +1,23 @@
-.intro {
-  border: 0;
-  padding: 0;
+.home-image {
   width: 100%;
 }
 
-.row {
-  width: 100%;
-  padding: 0;
-  margin: 0;
+.home-image .intro-mobile {
+  display: none;
 }
 
-.container {
+.home-image .intro-normal {
   width: 100%;
-  padding: 0;
-  margin: 0;
+}
+
+@media (max-width: 950px) {
+
+  .home-image .intro-mobile {
+    display: block;
+    width: 100%;
+  }
+
+  .home-image .intro-normal {
+    display: none;
+  }
 }

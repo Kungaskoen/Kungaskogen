@@ -1,11 +1,17 @@
-.fragor-container {
-  width: 80%;
-  max-width: 800px;
-  margin: auto;
-  padding: 30px 0;
-}
-
-.fragor-container .fragor-image {
+.column-container .fragor-image {
   width: 30%;
   margin: auto;
+}
+
+.column-container .fragor-info {
+  max-width: 800px;
+  margin: auto;
+}
+
+@media (max-width: 950px) {
+
+  .column-container .fragor-image {
+    width: 100%;
+  }
+
 }

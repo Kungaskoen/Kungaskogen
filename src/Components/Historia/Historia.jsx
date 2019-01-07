@@ -1,39 +1,33 @@
-import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
-import { Jumbotron, Grid, Row, Col, Image, Button } from 'react-bootstrap';
+import React from 'react';
+import { Image } from 'react-bootstrap';
+
 import './Historia.css'
 
-export default class Historia extends Component {
+const historia = props => (
 
-  render() {
-    return (
-      <Grid className="show-grid">
-        <Row className="historia-img-container">
-          <div className="spacer"></div>
-          <div className="historia-img">
-            <Image src="images/historia_sd.jpg" responsive/>
-          </div>
-          <div className="spacer"></div>
-        </Row>
-        <Row className="historia-info-container">
-          <Col md="8" mdOffset="2" className="hist-col">
+  <div className="column-container">
 
-            <h3>Vår historia</h3>
+    <div className="historia-img">
+      <Image src="images/historia_sd.jpg" responsive/>
+    </div>
 
-            <p>En dag samlades ett team på förlaget ILKA i Malmö för att göra en visa om vänskap. Texten skrevs och när dagen var slut var melodin också klar. Vännervisan hade fått liv. Visan tycktes internt vara så bra att det bestämdes att skriva en hel saga med vänskapstema. </p>
+    <div className="column-info">
+      <h3>Vår historia</h3>
 
-            <p>Sagan skulle anpassas för 2000-talets barn. Förlaget har genom åren haft långa samarbeten med kändisar som Astrid Lindgren, Ilon Wiland, Björn Berg, Gunilla Wolde m.fl. där en hel del erfarenhet lagrats om barn, sagor, illustrationer och barnböcker. Det var dags för förlaget att göra egna nya barnbokskaraktärer, nya berättelser med ny musik för barn. </p>
+      <p>En dag samlades ett team på förlaget ILKA i Malmö för att göra en visa om vänskap. Texten skrevs och när dagen var slut var melodin också klar. Vännervisan hade fått liv. Visan tycktes internt vara så bra att det bestämdes att skriva en hel saga med vänskapstema. </p>
 
-            <p>Arbetet tog flera år och för en tid sedan kom första utgivningen av ”Snick och Snack Vännerna i Kungaskogen bygger en koja” med ny musik. </p>
+      <p>Sagan skulle anpassas för 2000-talets barn. Förlaget har genom åren haft långa samarbeten med kändisar som Astrid Lindgren, Ilon Wiland, Björn Berg, Gunilla Wolde m.fl. där en hel del erfarenhet lagrats om barn, sagor, illustrationer och barnböcker. Det var dags för förlaget att göra egna nya barnbokskaraktärer, nya berättelser med ny musik för barn. </p>
 
-            <p>Efter några år på marknaden förstod vi att de nya barnbokskaraktärerna med sin historia om att bygga en koja hade gjort stora intryck på barn och vuxna. Pedagoger upptäckte vilken outömlig källa sagan hade för att prata om vänskap, djur och natur. En ny barnsagoklassiker hade tydligen fötts i Sverige.</p>
+      <p>Arbetet tog flera år och för en tid sedan kom första utgivningen av ”Snick och Snack Vännerna i Kungaskogen bygger en koja” med ny musik. </p>
 
-            <p>Förlaget hängde på och nu finns hela 34 sånger om Kungaskogen med nya berättelser med tema vänskap men också med livsstil, hälsa, miljö och hållbart samhälle. Hela 9 barnbokskaraktärer har fått liv genom Snick, Snack, Raffe Räv, Bitis, Hotta, Maraca, Älgvis, Silke och Gronilla. Författaren Lisa dos Santos har verkligen lyckats med berättarkonst för barn och fokus på att vara riktigt goda vänner. </p>
+      <p>Efter några år på marknaden förstod vi att de nya barnbokskaraktärerna med sin historia om att bygga en koja hade gjort stora intryck på barn och vuxna. Pedagoger upptäckte vilken outömlig källa sagan hade för att prata om vänskap, djur och natur. En ny barnsagoklassiker hade tydligen fötts i Sverige.</p>
 
-            <p>Välkommen till Kungaskogen!</p>
-          </Col>
-        </Row>
-      </Grid>
-    )
-  }
-}
+      <p>Förlaget hängde på och nu finns hela 34 sånger om Kungaskogen med nya berättelser med tema vänskap men också med livsstil, hälsa, miljö och hållbart samhälle. Hela 9 barnbokskaraktärer har fått liv genom Snick, Snack, Raffe Räv, Bitis, Hotta, Maraca, Älgvis, Silke och Gronilla. Författaren Lisa dos Santos har verkligen lyckats med berättarkonst för barn och fokus på att vara riktigt goda vänner. </p>
+
+      <p>Välkommen till Kungaskogen!</p>
+    </div>
+  </div>
+
+);
+
+export default historia;

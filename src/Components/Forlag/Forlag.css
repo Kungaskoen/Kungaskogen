@@ -1,7 +1,31 @@
-.forlag-image {
-  padding: 0;
+.row-big-container .forlag-image {
+  width: 40%;
 }
 
-.forlag-info {
-  padding: 0;
+.row-big-container .row-big-info {
+  width: 40%;
+}
+
+.row-big-container .spacer-row {
+  width: 10%;
+}
+
+@media (max-width: 950px) {
+  .forlag {
+      flex-direction: column;
+  }
+
+  .row-big-container .row-big-info {
+    width: 80%;
+    margin: auto;
+    padding-bottom: 30px;
+  }
+
+  .row-big-container .forlag-image {
+    width: 100%;
+  }
+
+  .row-big-container .spacer-row {
+    display: none;
+  }
 }

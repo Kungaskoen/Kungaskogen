@@ -1,10 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { Image } from 'react-bootstrap';
 
 import './Musikforlag.css';
 
 const musikforlag = props => (
-  <div className="musikforlag-container">
+  <div className="row-big-container musikforlag">
     <div className="musikforlag-image">
       <Image src="images/Musik/musik_label_allavannerna_800pixlar.jpg" responsive />
     </div>
@@ -19,6 +19,8 @@ const musikforlag = props => (
         <p>Box 4059</p>
         <p>203 11 Malmö</p>
       </div>
+
+      <br/>
 
       <div className="compact padding-top">
         <p>040-12 00 12</p>

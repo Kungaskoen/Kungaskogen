@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import {Image} from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 
@@ -6,19 +6,19 @@ import './Skola.css';
 
 
 const skola = props => (
-  <div className="skola-container">
+  <div className="column-container">
       <div className="skola-image">
         <Image src="images/User/anvandare_forskola_skola.jpg" responsive/>
       </div>
       <div className="skola-info">
 
         <h3>Förskola/skola</h3>
-        <a href="http://wasaplay.se/access/logform.php" target="_blank">Accessen</a>
+        <a href="http://wasaplay.se/access/logform.php" target="_blank" rel="noopener noreferrer">Accessen</a>
         <div className="compact">
           <p><b>Support och förfrågningar Kungaskogen Access</b></p>
           <p>idea@ilka.se eller 040-12 00 12</p>
         </div>
-        <a href="https://iqpager.quid.eu//books/iqpager/6744XKjNOE0y4c7TYF0G6744vuAMRCm0nG" target="_blank">E-katalog Access Kungaskogen handledning</a>
+        <a href="https://iqpager.quid.eu//books/iqpager/6744XKjNOE0y4c7TYF0G6744vuAMRCm0nG" target="_blank" rel="noopener noreferrer">E-katalog Access Kungaskogen handledning</a>
 
 
         <h4>Förskola/skola</h4>
@@ -38,7 +38,7 @@ const skola = props => (
           dialekter, årstider, högtider mm.
           Högläsning - samtal - sång - lek - aktiviteter ute och inne - pyssel - drama - teater. Googla gärna på några sökord: kungaskogen, snick och
           snack, älgvis, bitis, Raffe räv</p>
-
+        haha detta är något roligt
         <h4>Sociala medier</h4>
         <p>Det finns en sluten Facebookgrupp som heter Kungaskogen som har uppkommit spontant genom användarna.
           På Facebook finns också Bioteater Vännerna i Kungaskogen, info och aktuell turnéplan.</p>
@@ -48,8 +48,8 @@ const skola = props => (
 
         <h4>Produkter</h4>
         <div className="compact">
-          <a href="https://iqpager.quid.eu//books/iqpager/67903qUEQhSL7vEKn1RV6790bre0tPHUd1" target="_blank">Läs gärna i Kungaskogen E-katalog. Klicka här!</a>
-          <p>Eller gå in på menyn <Link to="/produkter" className="plain">Produkter</Link>.</p>
+          <a href="https://iqpager.quid.eu//books/iqpager/67903qUEQhSL7vEKn1RV6790bre0tPHUd1" target="_blank" rel="noopener noreferrer">Läs gärna i Kungaskogen E-katalog. Klicka här!</a>
+          <p>Eller gå in på menyn <Link to="/produkter" className="link-page">Produkter</Link>.</p>
         </div>
 
         <h4>Så här tycker andra</h4>

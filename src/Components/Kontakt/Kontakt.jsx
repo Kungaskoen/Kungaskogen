@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
-import { Jumbotron, Grid, Row, Col, Image, Button } from 'react-bootstrap';
+import React from 'react';
+import { Image } from 'react-bootstrap';
+
 import './Kontakt.css'
 
 const kontakt = props => (
@@ -28,7 +28,7 @@ const kontakt = props => (
 
       <div className="compact">
         <p>Kundservice hjälper Dig med beställningar, förfrågningar, biljetter Bioteater, bokning av Raffe Räv, fakturor,   mm</p>
-        <p>Öppettider : </p>
+        <p>Öppettider: </p>
         <p>Vardagar 9.00 - 14.30 (fast vi brukar svara senare än så). </p>
         <p>Skulle vi inte svara så ser vi Ditt telefonnummer och vi ringer upp.</p>
       </div>

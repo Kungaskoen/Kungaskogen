@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
-import {Image} from 'react-bootstrap';
+import { Image } from 'react-bootstrap';
 
 import DrawerToggleButton from '../SideDrawer/DrawerToggleButton';
 import './Toolbar.css';
@@ -55,7 +55,7 @@ const toolbar = props => (
             <a>TEATER</a>
             <ul className="dropdown-items teater">
               <li><Link to="/bioteater">Bioteater</Link></li>
-              <li><Link to="/raffe">Raffe Räv Hälsar På</Link></li>
+              <li><Link to="/raffe">Raffe Räv hälsar på</Link></li>
               <li><Link to="/play">Spela Teater</Link></li>
             </ul>
           </li>
@@ -73,6 +73,7 @@ const toolbar = props => (
             <a>ÖVRIGT</a>
             <ul className="dropdown-items ovrigt">
               <li><Link to="/nyheter">Nyheter</Link></li>
+              <li><Link to="/newbook">Nästa Bok</Link></li>
               <li><Link to="/fragor">Vanliga Frågor</Link></li>
               <li><Link to="/mera">Mera</Link></li>
               <li><Link to="/miljo">Klimat och Miljö</Link></li>

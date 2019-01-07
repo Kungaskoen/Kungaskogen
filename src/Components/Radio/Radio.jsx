@@ -1,10 +1,11 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { Image } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 
 import './Radio.css';
 
 const radio = props => (
-  <div className="radio-container">
+  <div className="column-container">
     <div className="radio-image">
       <Image src="images/Musik/radio_tv.jpg" responsive />
     </div>
@@ -20,7 +21,7 @@ const radio = props => (
 
       <p>TV-kanaler är välkomna med förfrågningar om program som vill använda ”Snick & Snack och Vännerna i Kungaskogen”.</p>
 
-      <p>Pressreleaser om Kungaskogen finns under <a href="">Press</a> på hemsidan.</p>
+      <p>Pressreleaser om Kungaskogen finns under <Link to="/press">Press</Link> på hemsidan.</p>
 
       <div className="compact">
         <p>Vänligen kontakta förlaget för vidare info.</p>

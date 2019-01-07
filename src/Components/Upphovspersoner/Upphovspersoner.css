@@ -1,11 +1,38 @@
-.upphov-profile-pic {
-  text-align: center;
+.upphov-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  padding: 30px 0;
 }
 
-.ville {
-  width: 250px;
+.upphov-container .person-container {
+  display: flex;
+  justify-content: space-around;
 }
 
-.upphov-profile-text h2{
-  color: green;
+.upphov-container .person-container .person-image{
+  width: 25%;
+  max-width: 250px;
+}
+
+.upphov-container .person-container .person-info{
+  width: 70%;
+}
+
+@media (max-width: 950px) {
+
+  .upphov-container .person-container {
+    flex-direction: column;
+  }
+
+  .upphov-container .person-container .person-image{
+    width: 100%;
+    margin: auto;
+  }
+
+  .upphov-container .person-container .person-info{
+    width: 80%;
+    margin: auto;
+  }
 }

@@ -1,22 +1,12 @@
-.historia-img-container {
-  display: flex;
-}
-
-.historia-img-container .spacer {
-  flex: 0.25;
-}
-
-.historia-img-container .historia-img {
-  flex: 0.30;
+.historia-img {
+  width: 50%;
   margin: auto;
 }
 
-.hist-col {
-  padding: 0;
-  text-align: left;
-}
+@media (max-width: 950px) {
 
+  .historia-img {
+    width: 100%;
+  }
 
-.historia-img {
-  padding: 30px 0;
 }

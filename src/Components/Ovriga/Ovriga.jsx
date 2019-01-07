@@ -1,10 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { Image } from 'react-bootstrap';
 
 import './Ovriga.css';
 
 const ovriga = props => (
-  <div className="ovriga-container">
+  <div className="column-container">
     <div className="ovriga-image">
       <Image src="images/User/ovrigaanvandare.jpg" responsive></Image>
     </div>
@@ -30,7 +30,7 @@ const ovriga = props => (
         tel 040-120012 eller idea@ilka.se</p>
 
       <p>Välkomna till Kungaskogen där alla får vara med!</p>
-      
+
     </div>
   </div>
 

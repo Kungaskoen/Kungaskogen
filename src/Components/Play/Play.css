@@ -1,16 +1,15 @@
-.play-container {
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin: auto;
-  padding: 0 0 30px 0;
-}
-
-.play-container .play-image {
+.column-big-container .play-image {
   margin: auto;
 }
 
-.play-container .play-info {
-  width: 70%;
+.column-big-container .play-info {
+  width: 60%;
+}
+
+@media (max-width: 950px) {
+
+  .column-big-container .play-info {
+    width: 80%;
+  }
+
 }

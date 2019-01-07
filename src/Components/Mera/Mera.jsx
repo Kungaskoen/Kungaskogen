@@ -1,10 +1,9 @@
-import React, { Component } from 'react';
-import { Image } from 'react-bootstrap';
+import React from 'react';
 
 import './Mera.css';
 
 const mera = props => (
-  <div className="mera-container">
+  <div className="column-container mera">
     <div className="compact">
       <h3>Mera</h3>
 

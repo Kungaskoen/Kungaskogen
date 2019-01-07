@@ -1,29 +1,59 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
 
 import './SideDrawer.css'
 
 function dropDownOm() {
   document.getElementById("om").classList.toggle("show");
+  document.getElementById("produkter").classList.remove("show");
+  document.getElementById("musik").classList.remove("show");
+  document.getElementById("teater").classList.remove("show");
+  document.getElementById("user").classList.remove("show");
+  document.getElementById("other").classList.remove("show");
 }
 
 function dropDownProducts() {
+  document.getElementById("om").classList.remove("show");
   document.getElementById("produkter").classList.toggle("show");
+  document.getElementById("musik").classList.remove("show");
+  document.getElementById("teater").classList.remove("show");
+  document.getElementById("user").classList.remove("show");
+  document.getElementById("other").classList.remove("show");
 }
 
 function dropDownMusik() {
+  document.getElementById("om").classList.remove("show");
+  document.getElementById("produkter").classList.remove("show");
   document.getElementById("musik").classList.toggle("show");
+  document.getElementById("teater").classList.remove("show");
+  document.getElementById("user").classList.remove("show");
+  document.getElementById("other").classList.remove("show");
 }
 
 function dropDownTeater() {
+  document.getElementById("om").classList.remove("show");
+  document.getElementById("produkter").classList.remove("show");
+  document.getElementById("musik").classList.remove("show");
   document.getElementById("teater").classList.toggle("show");
+  document.getElementById("user").classList.remove("show");
+  document.getElementById("other").classList.remove("show");
 }
 
 function dropDownUser() {
+  document.getElementById("om").classList.remove("show");
+  document.getElementById("produkter").classList.remove("show");
+  document.getElementById("musik").classList.remove("show");
+  document.getElementById("teater").classList.remove("show");
   document.getElementById("user").classList.toggle("show");
+  document.getElementById("other").classList.remove("show");
 }
 
 function dropDownOther() {
+  document.getElementById("om").classList.remove("show");
+  document.getElementById("produkter").classList.remove("show");
+  document.getElementById("musik").classList.remove("show");
+  document.getElementById("teater").classList.remove("show");
+  document.getElementById("user").classList.remove("show");
   document.getElementById("other").classList.toggle("show");
 }
 
@@ -92,13 +122,10 @@ const sideDrawer = props => {
         <li className="side-menu-item">
           <a onClick={dropDownOther}>ÖVRIGT</a>
           <ul className="side-dropdown-menu" id="other">
-            <li><Link to="/">Länkar</Link></li>
-            <li><Link to="/">Nyheter</Link></li>
-            <li><Link to="/">Copyright</Link></li>
-            <li><Link to="/">Nöjen Och Barnkultur</Link></li>
-            <li><Link to="/">Arrangörer Barn</Link></li>
-            <li><Link to="/">Utländsk Marknad</Link></li>
-            <li><Link to="/">Vanliga Frågor</Link></li>
+            <li><Link to="/nyheter">Nyheter</Link></li>
+            <li><Link to="/fragor">Vanliga Frågor</Link></li>
+            <li><Link to="/mera">Mera</Link></li>
+            <li><Link to="/miljo">Klimat och Miljö</Link></li>
           </ul>
         </li>
 

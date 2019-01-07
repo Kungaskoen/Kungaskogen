@@ -1,10 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { Image } from 'react-bootstrap';
 
 import './Language.css';
 
 const language = props => (
-  <div className="language-container">
+  <div className="column-container lang">
 
     <a href="#english">English</a>
     <a href="#deutsch">Deutsch</a>
@@ -14,7 +14,7 @@ const language = props => (
     <div className="line" id="english"/>
 
     <div className="language-info">
-      <Image src="images/flaggor/englands_flagga.jpg" />
+      <Image src="images/Flaggor/englands_flagga.jpg" />
 
       <h3>Be a good and decent friend – the important message in the book and music story about the ”Friends in King’s Forest</h3>
 
@@ -45,17 +45,17 @@ const language = props => (
       <p>Many Scandinavian story books for children are famous all over the world. Astrid Lindgren ”Pippi Longstocking”, Tove Janson ”Moomin”, Thorbjörn Egner ”When the Robbers Came to Cardamom Town”.</p>
       <p>The story of ”Friends from King’s Forest” is one of the most popular stories for children in Kindergarten in the new millennium.</p>
 
-      <p>Please listen to <a href="https://soundcloud.com/wasamusic/the-friends-song" target="_blank">The Friends Song</a> from the story.</p>
+      <p>Please listen to <a href="https://soundcloud.com/wasamusic/the-friends-song" target="_blank" rel="noopener noreferrer">The Friends Song</a> from the story.</p>
 
       <p><b>We are looking for agents and publishers who want to publish ”Friends in King’s Forest” in other countries.</b></p>
 
       <p>The swedish King Carl Gustav listen to some songs from The friends in King’s forest</p>
-      <a href="https://www.youtube.com/watch?v=LfrfYrt8C2c" target="_blank">Link</a>
+      <a href="https://www.youtube.com/watch?v=LfrfYrt8C2c" target="_blank" rel="noopener noreferrer">Link</a>
 
       <p>Theatre Vännerna i Kungaskogen</p>
-      <a href="https://www.youtube.com/watch?v=LfrfYrt8C2c" target="_blank">Theatre on Movie Screen</a>
+      <a href="https://www.youtube.com/watch?v=LfrfYrt8C2c" target="_blank" rel="noopener noreferrer">Theatre on Movie Screen</a>
 
-      <a href="https://www.google.se/search?q=kungaskogen&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjA-I6O3M_fAhUFCywKHQ_nBt0Q_AUIDigB&biw=878&bih=440" target="_blank">Google in Sweden Kungaskogen</a>
+      <a href="https://www.google.se/search?q=kungaskogen&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjA-I6O3M_fAhUFCywKHQ_nBt0Q_AUIDigB&biw=878&bih=440" target="_blank" rel="noopener noreferrer">Google in Sweden Kungaskogen</a>
 
       <h4>Spotify</h4>
       <p>Use key Word <b>kungaskogen</b> or  <b>königswald</b> or <b>kongeskogen</b></p>
@@ -72,7 +72,7 @@ const language = props => (
     <div className="line" id="deutsch"/>
 
     <div className="language-info">
-      <Image src="images/flaggor/tysklands_flagga.jpg" />
+      <Image src="images/Flaggor/tysklands_flagga.jpg" />
 
       <h3>Sei ein guter und anständiger Freund - die wichtige Botschaft in der Buch- und Musikgeschichte über die "Freunde im Königswald".</h3>
 
@@ -89,21 +89,21 @@ const language = props => (
 
       <p><b>Lisa Grane, Autorin</b>: Kindheit ist das Wichtigste, was ein Kind hat. Ich möchte, dass jedes Kind der Welt lernt, einander zu achten und gute Freunde für eine bessere Welt zu sein. Deshalb erzähle ich die Geschichte der Freunde des Königswaldes.</p>
 
-      <a href="https://soundcloud.com/wasamusic/konigswald-trailer" target="_blank">Königswald Präsentation Hörtrailer</a>
+      <a href="https://soundcloud.com/wasamusic/konigswald-trailer" target="_blank" rel="noopener noreferrer">Königswald Präsentation Hörtrailer</a>
 
       <p>Der schwedische König und Königin Silvia hören Lieder aus dem Königswald</p>
-      <a href="https://www.youtube.com/watch?v=LfrfYrt8C2c" target="_blank">Siliva Lieder aus dem Königswald. YouTube</a>
+      <a href="https://www.youtube.com/watch?v=LfrfYrt8C2c" target="_blank" rel="noopener noreferrer">Siliva Lieder aus dem Königswald. YouTube</a>
 
       <h4>Spotify</h4>
       <p>Use key Word <b>königswald</b></p>
 
-      <a href="https://www.google.se/search?q=kungaskogen&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjA-I6O3M_fAhUFCywKHQ_nBt0Q_AUIDigB&biw=878&bih=440" target="_blank">Google in Sweden Kungaskogen</a>
+      <a href="https://www.google.se/search?q=kungaskogen&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjA-I6O3M_fAhUFCywKHQ_nBt0Q_AUIDigB&biw=878&bih=440" target="_blank" rel="noopener noreferrer">Google in Sweden Kungaskogen</a>
     </div>
 
     <div className="line" id="norsk"/>
 
     <div className="language-info">
-      <Image src="images/flaggor/norges_flagga.jpg" />
+      <Image src="images/Flaggor/norges_flagga.jpg" />
 
       <h3>Suksess for barnebøker om vennskap, moral, etikk, samarbeid og miljø.</h3>
 
@@ -141,27 +141,27 @@ const language = props => (
       <p>+46/40/120012 idea@ilka.se</p>
 
       <br/>
-      <a href="https://soundcloud.com/wasamusic/kongeskogen-trailer" target="_blank">Kongeskogen Presentasjon Trailer. Lytte.</a>
+      <a href="https://soundcloud.com/wasamusic/kongeskogen-trailer" target="_blank" rel="noopener noreferrer">Kongeskogen Presentasjon Trailer. Lytte.</a>
       <br/>
-      <a href="https://www.youtube.com/watch?v=2RoEMV5Zwuk" target="_blank">Raffe Räv Vrikke Vrikke. YouTube</a>
+      <a href="https://www.youtube.com/watch?v=2RoEMV5Zwuk" target="_blank" rel="noopener noreferrer">Raffe Räv Vrikke Vrikke. YouTube</a>
       <br/>
       Svensk Kong Carl Gustav lytter til sanger fra Kongeskogen.
-      <a href="https://www.youtube.com/watch?v=LfrfYrt8C2c" target="_blank">Svensk Kong Carl Gustav i Kongeskogen. YouTube</a>
+      <a href="https://www.youtube.com/watch?v=LfrfYrt8C2c" target="_blank" rel="noopener noreferrer">Svensk Kong Carl Gustav i Kongeskogen. YouTube</a>
 
       <h4>Spotify</h4>
       <p>Bruk søkeord <b>kongeskogen</b></p>
 
 
-      <a href="https://www.google.se/search?q=kungaskogen&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjA-I6O3M_fAhUFCywKHQ_nBt0Q_AUIDigB&biw=878&bih=440" target="_blank">Google i Sverige Kungaskogen</a>
+      <a href="https://www.google.se/search?q=kungaskogen&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjA-I6O3M_fAhUFCywKHQ_nBt0Q_AUIDigB&biw=878&bih=440" target="_blank" rel="noopener noreferrer">Google i Sverige Kungaskogen</a>
       <br/>
-      <a href="https://www.youtube.com/watch?v=CqnpETBQ4kY" target="_blank">Presentasjon Kongeskogen svensk YouTube</a>
+      <a href="https://www.youtube.com/watch?v=CqnpETBQ4kY" target="_blank" rel="noopener noreferrer">Presentasjon Kongeskogen svensk YouTube</a>
 
     </div>
 
     <div className="line" id="svenska"/>
 
     <div className="language-info">
-      <Image src="images/flaggor/sveriges_flagga.jpg" />
+      <Image src="images/Flaggor/sveriges_flagga.jpg" />
 
       <h3>SUCCÉ I FÖR BARNBOKSSERIE om VÄNSKAP, MORAL, ETIK, SAMARBETE OCH MILJÖ.</h3>
 
@@ -202,15 +202,15 @@ const language = props => (
       <p>+46/40/120012 idea@ilka.se</p>
 
 
-      <a href="https://soundcloud.com/wasamusic/kungaskogen-kojan-trailer" target="_blank">Kojan Trailer</a>
+      <a href="https://soundcloud.com/wasamusic/kungaskogen-kojan-trailer" target="_blank" rel="noopener noreferrer">Kojan Trailer</a>
       <br/>
-      <a href="https://soundcloud.com/wasamusic/kungaskogen-utflykt-trailer" target="_blank">Utflykt Trailer</a>
+      <a href="https://soundcloud.com/wasamusic/kungaskogen-utflykt-trailer" target="_blank" rel="noopener noreferrer">Utflykt Trailer</a>
       <br/>
-      <a href="https://soundcloud.com/wasamusic/kungaskogen-snick-slinga-utflykt" target="_blank">Snick om Utflykt</a>
+      <a href="https://soundcloud.com/wasamusic/kungaskogen-snick-slinga-utflykt" target="_blank" rel="noopener noreferrer">Snick om Utflykt</a>
       <br/>
-      <a href="https://www.youtube.com/watch?v=09ERI0nDwY0" target="_blank">Raffe Räv Vicka Vicka</a>
+      <a href="https://www.youtube.com/watch?v=09ERI0nDwY0" target="_blank" rel="noopener noreferrer">Raffe Räv Vicka Vicka</a>
       <br/>
-      <a href="https://www.youtube.com/watch?v=LfrfYrt8C2c" target="_blank">Svenska Kungen Carl Gustav i Kungaskogen. YouTube</a>
+      <a href="https://www.youtube.com/watch?v=LfrfYrt8C2c" target="_blank" rel="noopener noreferrer">Svenska Kungen Carl Gustav i Kungaskogen. YouTube</a>
 
     </div>
   </div>

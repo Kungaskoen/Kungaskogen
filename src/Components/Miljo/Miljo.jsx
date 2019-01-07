@@ -1,12 +1,12 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { Image } from 'react-bootstrap';
 
 import './Miljo.css';
 
 const mijo = props => (
-  <div className="mijo-container">
+  <div className="column-container miljo">
 
-    <div className="musik-image">
+    <div className="miljo-image">
       <Image src="images/klimat_miljo.jpg" responsive />
     </div>
 

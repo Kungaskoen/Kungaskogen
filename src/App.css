@@ -10,10 +10,16 @@ body, html{
 .main {
   height: 100%;
   margin-top: 80px;
+  margin-bottom: 89px;
 }
 
 .app {
   height: 100%;
+}
+
+h2 {
+  font-weight: bold;
+  color: green;
 }
 
 h3 {
@@ -21,6 +27,7 @@ h3 {
   font-weight: bold;
   font-size: 28px;
   text-align: left;
+  margin-top: 7px;
 }
 
 h4 {
@@ -40,4 +47,63 @@ p {
 
 .compact p{
   margin: 0;
+}
+
+a {
+  color: green;
+  font-weight: bold;
+  text-decoration: underline;
+  display: block;
+}
+
+a:hover {
+  color: #013d01;
+}
+
+.link-page {
+  display: inline;
+}
+
+.line {
+  height: 1px;
+  background-color: green;
+  width: 90%;
+  margin: 30px 0;
+}
+
+.column-container {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  margin: auto;
+  padding: 30px 0;
+  max-width: 1000px;
+}
+
+.column-big-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 30px 0;
+}
+
+.row-container {
+  display: flex;
+  justify-content: space-between;
+  width: 70%;
+  margin: auto;
+  padding: 30px 0;
+}
+
+.row-big-container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+@media (max-width: 950px) {
+  .main {
+    margin-bottom: 0;
+  }
 }
