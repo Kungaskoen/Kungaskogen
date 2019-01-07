@@ -4,7 +4,7 @@ import { Image } from 'react-bootstrap';
 import './Kontakt.css'
 
 const kontakt = props => (
-  <div className="kontakt-container">
+  <div className="row-container alg">
     <div className="kontakt-image">
       <Image src="images/kontakt.jpg" responsive/>
     </div>

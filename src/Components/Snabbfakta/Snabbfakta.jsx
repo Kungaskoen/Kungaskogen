@@ -34,7 +34,7 @@ const snabbfakta = props => (
 
       <p> YouTube: Sökord "Kungaskogen" eller "Raffe räv" Appstore: Sökord "Kungaskogen"</p>
 
-      <p> 33 originalsånger finns till Kungaskogen. Många är redan barnviseklassiker. Kungaskogensångerna är förmodligen den mest använda barnmusiken på förskolan idag.</p>
+      <p> 34 originalsånger finns till Kungaskogen. Många är redan barnviseklassiker. Kungaskogensångerna är förmodligen den mest använda barnmusiken på förskolan idag.</p>
 
       <p> Sagan och musiken om Kungaskogen är skriven för 2000-talets barn.</p>
 

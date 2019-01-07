@@ -38,7 +38,7 @@ const bioteater = props => (
       <h4>Bokning</h4>
       <div className="compact">
         <p>Bokning av bioteater görs på 040-12 00 12 eller idea@ilka.se</p>
-        <a href="http://wasaplay.se/teater/" target="_blank" rel="noopener noreferrer">Bioteater</a>
+        <a href="http://wasaplay.se/index.php?about=86&page=about" target="_blank" rel="noopener noreferrer">Bioteater Snick och Snack Vännerna i Kungaskogen. Turnéplan våren 2019 och info.</a>
         <p>I länken finns all info om Bioteater Kungaskogen, aktuell turnéplan och pris.</p>
         <p>Innan bokning läs ”Frågor och Svar” på Turnéplan vår 2019 på Bioteater.</p>
       </div>

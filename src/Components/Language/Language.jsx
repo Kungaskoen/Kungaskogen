@@ -20,6 +20,8 @@ const language = props => (
 
       <p>”Friends in King’s Forest” is an entertaining and funny story for childen about two companions who finally become six friends, with a concept of ethics, friendship and co-operation. The pictures, story, dialogue songs and toys will give children valuable lessons how to be good friends in a playful form.</p>
 
+      <p><b>We are looking for agents and publishers who want to publish ”Friends in King’s Forest” in other countries.</b></p>
+
       <h4>FACTS ABOUT THE SUCCESS</h4>
       <p>Two different materials are available:</p>
       <p>• The friends in King’s Forest build a hut (48 pages, 12 songs, 2 hours of dialogs on CD och App)</p>
@@ -47,14 +49,11 @@ const language = props => (
 
       <p>Please listen to <a href="https://soundcloud.com/wasamusic/the-friends-song" target="_blank" rel="noopener noreferrer">The Friends Song</a> from the story.</p>
 
-      <p><b>We are looking for agents and publishers who want to publish ”Friends in King’s Forest” in other countries.</b></p>
-
-      <p>The swedish King Carl Gustav listen to some songs from The friends in King’s forest</p>
-      <a href="https://www.youtube.com/watch?v=LfrfYrt8C2c" target="_blank" rel="noopener noreferrer">Link</a>
+      <a href="https://www.youtube.com/watch?v=LfrfYrt8C2c" target="_blank" rel="noopener noreferrer">The swedish King Carl Gustav listen to some songs from The friends in King’s forest</a>
 
       <p>Theatre Vännerna i Kungaskogen</p>
-      <a href="https://www.youtube.com/watch?v=LfrfYrt8C2c" target="_blank" rel="noopener noreferrer">Theatre on Movie Screen</a>
-
+      <a href="https://www.youtube.com/watch?v=5HDUwImaUkU&t=13s" target="_blank" rel="noopener noreferrer">Trailer</a>
+      <br/>
       <a href="https://www.google.se/search?q=kungaskogen&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjA-I6O3M_fAhUFCywKHQ_nBt0Q_AUIDigB&biw=878&bih=440" target="_blank" rel="noopener noreferrer">Google in Sweden Kungaskogen</a>
 
       <h4>Spotify</h4>
@@ -145,7 +144,6 @@ const language = props => (
       <br/>
       <a href="https://www.youtube.com/watch?v=2RoEMV5Zwuk" target="_blank" rel="noopener noreferrer">Raffe Räv Vrikke Vrikke. YouTube</a>
       <br/>
-      Svensk Kong Carl Gustav lytter til sanger fra Kongeskogen.
       <a href="https://www.youtube.com/watch?v=LfrfYrt8C2c" target="_blank" rel="noopener noreferrer">Svensk Kong Carl Gustav i Kongeskogen. YouTube</a>
 
       <h4>Spotify</h4>
@@ -201,7 +199,6 @@ const language = props => (
 
       <p>+46/40/120012 idea@ilka.se</p>
 
-
       <a href="https://soundcloud.com/wasamusic/kungaskogen-kojan-trailer" target="_blank" rel="noopener noreferrer">Kojan Trailer</a>
       <br/>
       <a href="https://soundcloud.com/wasamusic/kungaskogen-utflykt-trailer" target="_blank" rel="noopener noreferrer">Utflykt Trailer</a>
@@ -209,6 +206,8 @@ const language = props => (
       <a href="https://soundcloud.com/wasamusic/kungaskogen-snick-slinga-utflykt" target="_blank" rel="noopener noreferrer">Snick om Utflykt</a>
       <br/>
       <a href="https://www.youtube.com/watch?v=09ERI0nDwY0" target="_blank" rel="noopener noreferrer">Raffe Räv Vicka Vicka</a>
+      <br/>
+      <a href="https://www.youtube.com/watch?v=5HDUwImaUkU&t=13s" target="_blank" rel="noopener noreferrer">Vännerna i Kungaskogen Bioteater. Trailer</a>
       <br/>
       <a href="https://www.youtube.com/watch?v=LfrfYrt8C2c" target="_blank" rel="noopener noreferrer">Svenska Kungen Carl Gustav i Kungaskogen. YouTube</a>
 

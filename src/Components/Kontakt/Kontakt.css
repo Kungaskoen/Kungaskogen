@@ -1,15 +1,29 @@
-.kontakt-container {
+.alg {
+  align-items: center;
+  justify-content: center;
+}
+
+.row-container .kontakt-image {
+  width: 30%;
   display: flex;
-  justify-content: space-around;
-  width: 55%;
-  margin: auto;
-  padding: 30px 0;
+  justify-content: center;
 }
 
-.kontakt-container .kontakt-image {
-  width: 20%;
+.row-container .kontakt-info {
+  width: 40%;
 }
 
-.kontakt-container .kontakt-info {
-  width: 50%;
+@media (max-width: 950px) {
+
+  .alg {
+    flex-direction: column;
+  }
+
+  .row-container .kontakt-image {
+    width: 100%;
+  }
+
+  .row-container .kontakt-info {
+    width: 100%;
+  }
 }

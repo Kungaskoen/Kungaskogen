@@ -4,10 +4,6 @@
   margin: auto;
 }
 
-.musik-upphov a {
-  display: inline;
-}
-
 .youtube-container {
   display: flex;
   flex-wrap: wrap;
