@@ -18,7 +18,7 @@ const bioteater = props => (
         ”Snick och Snack Vännerna i Kungaskogen bygger en koja” som gjort succé på
         förskola och skola i hela Sverige med tema ”att vara schysst och en bra
         kompis” och som tar ställning mot mobbning och utanförskap. Över 20 000
-        barn såg föreställningen förra året.</p>
+      barn såg föreställningen förra året.</p>
 
       <p>I TV får barnen se hur man röstar ut varandra men i Kungaskogen får man
         vara med. Tusentals barn har hört, sjungit och tagit sagan till sitt hjärta
@@ -26,11 +26,11 @@ const bioteater = props => (
         Snack och hur de gjorde när de löste konflikter. Barnen får vara med när
         Snick och Snack ska bygga en koja och träffar nya vänner. De lär sig att
         samarbeta och att man ska vara goda vänner. Mycket sång och musik. Vuxna
-        gillar också sagan. Alla sjunger med i de härliga vännersångerna.</p>
+      gillar också sagan. Alla sjunger med i de härliga vännersångerna.</p>
 
       <p>Föreställningen är producerad av Wasa Barnteater i Malmö och är Sveriges
         första digitala barnteater (avfilmad teater). Lämplig ålder: 3,5–8 år.
-        (Förskola, förskoleklass och skolans första och andra klass.) Lågt biljettpris!</p>
+      (Förskola, förskoleklass och skolans första och andra klass.) Lågt biljettpris!</p>
 
       <p>Trailer på YouTube:</p>
       <a href="https://www.youtube.com/watch?v=5HDUwImaUkU&t=13s" target="_blank" rel="noopener noreferrer">Bioteater "Vännerna i Kungaskogen"</a>
@@ -38,9 +38,9 @@ const bioteater = props => (
       <h4>Bokning</h4>
       <div className="compact">
         <p>Bokning av bioteater görs på 040-12 00 12 eller idea@ilka.se</p>
-        <a href="http://wasaplay.se/index.php?about=86&page=about" target="_blank" rel="noopener noreferrer">Bioteater Snick och Snack Vännerna i Kungaskogen. Turnéplan våren 2019 och info.</a>
+        <a href="http://wasaplay.se/index.php?about=86&page=about" target="_blank" rel="noopener noreferrer">Bioteater Snick och Snack Vännerna i Kungaskogen. Turnéplan och info.</a>
         <p>I länken finns all info om Bioteater Kungaskogen, aktuell turnéplan och pris.</p>
-        <p>Innan bokning läs ”Frågor och Svar” på Turnéplan vår 2019 på Bioteater.</p>
+        <p>Innan bokning läs ”Frågor och Svar” på Turnéplan Bioteater.</p>
       </div>
 
       <h4>Biografer</h4>
