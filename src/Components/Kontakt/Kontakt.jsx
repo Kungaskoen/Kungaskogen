@@ -14,7 +14,7 @@ const kontakt = props => (
       <h4>Kontaktadress</h4>
 
       <div className="compact">
-        <p>Förlagshuset Wasa/ILKA </p>
+        <p>Förlagshuset Wasa </p>
         <p>(ILKA Förlagsprodukter AB/ILKA Förskoleprodukter AB, Wasa Music AB, Wasa Barnteater)</p>
         <p>Box 4059</p>
         <p>203 11 Malmö</p>
@@ -33,7 +33,7 @@ const kontakt = props => (
         <p>Skulle vi inte svara så ser vi Ditt telefonnummer och vi ringer upp.</p>
       </div>
 
-      <p>Välkommen till Förlagshuset Wasa/ILKA</p>
+      <p>Välkommen till Förlagshuset Wasa</p>
     </div>
   </div>
 )

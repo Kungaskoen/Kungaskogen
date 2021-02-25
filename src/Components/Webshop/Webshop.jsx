@@ -12,15 +12,15 @@ const webshop = props => (
     </div>
     <div className="webshop-info">
       <h3>Webshop</h3>
-      <p>Du kan beställa Kungaskogen hos två distributörer:
-        <a href="http://wasaplay.se/"> wasaplay.se </a>
-        (förlagets hemsida) eller
-        <a href="http://www.ilka.se/"> ilka.se </a>.
+      <p>Du kan beställa Kungaskogen på:
+        <a href="http://förskoleprodukter.se/"> förskoleprodukter.se </a> eller
+
+
       </p>
-      <p><a href="http://wasaplay.se/" className="extra">Wasaplay nätbutik</a>
+      <p><a href="http://wasaplay.se/" className="extra">wasaplay.se nätbutik</a>
         , här hittar du det mesta av Kungaskogens material.
       </p>
-      <a href="http://www.ilka.se/" className="extra">ILKA nätbutik</a>
+
     </div>
   </div>
 

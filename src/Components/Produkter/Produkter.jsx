@@ -8,8 +8,8 @@ const produkter = props => (
 
     <div className="produkter-intro">
       <p><b>Det finns två baspaket om "Snick och Snack och Vännerna i Kungaskogen"</b></p>
-      <p>En presentation av <a href="https://www.youtube.com/watch?v=CqnpETBQ4kY"> <b>"Snick och Snack och Vännerna i Kungaskogen"</b> </a></p>
-      <p>Läs om hela matrialet <a href="https://iqpager.quid.eu//books/iqpager/67903qUEQhSL7vEKn1RV6790bre0tPHUd1" target="_blank" rel="noopener noreferrer"><b>Kungaskogen E-katalog</b></a></p>
+      <p>En presentation av <a href="https://youtu.be/rYAB-VF_tsY"> <b>"Snick och Snack och Vännerna i Kungaskogen"</b> </a></p>
+      <p>Läs om hela matrialet <a href="https://pub.mediapaper.se/8b997c35-a156-43d4-a50a-e1c1c27a2244" target="_blank" rel="noopener noreferrer"><b>Kungaskogen E-katalog</b></a></p>
     </div>
 
     <h2 className="produkter-header-normal">Produkter – Tema vänskap, djur och natur</h2>
@@ -57,11 +57,11 @@ const produkter = props => (
     <div className="produkt-dolls">
       <div className="doll">
         <Image src="images/produkter/7handdockor_gruppbild.jpg" responsive />
-        <p><b>Art.nr 4669 Nya handdockor Kojan </b></p>
+        <p><b>Art.nr 4669 Handdockor Vännerna i Kungaskogen Kojan </b></p>
         <p>Set om 7 st handdockor (ca 30 cm höga) med design och karaktärer till
           Vännerna i Kungskogen bygger en koja. Tillverkade i mjukt tygmaterial.
           CE-märkta enligt EN-71. Dramatisera och lek till sagan om Vännerna
-          i Kungaskogen med handdockor.</p>
+          i Kungaskogen med handdockor.</p><p>Filma greenscreen med våra handdockor <a href="https://youtu.be/0jHTD7OcelY"> <b>"Klicka här"</b> </a></p>
       </div>
       <div className="doll">
         <Image src="images/produkter/handdockor_utflykt.jpg" responsive />
@@ -82,7 +82,7 @@ const produkter = props => (
       </div>
 
       <div className="almanacka-info">
-        <p><b>Art.nr 270 Kungaskogen Almanackstavla Calendo</b></p>
+        <p><b>Art.nr 270 Barnens Almanackstavla Calendo</b></p>
         <p>Lärtavla med bilder från Kungaskogen och karaktärer. Markera med röda
 träpluggar (markörer) och lär månader, veckodagar, årstider, kläder man
 har på sig, datum 1-31, högtider, väderlek, termometer. Tavlan kan hela

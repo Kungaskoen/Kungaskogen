@@ -37,7 +37,7 @@ const access = props => (
           Här finns en E-katalog om materialet i accessen. Ger en bra bild över det stora utbudet av pedagogiskt nedladdningsmaterial som kan
           användas för samtal, övningar och undervisning. Det mesta i läroplanens mål finns med. Även förberedd för nya läroplanen.
         </p>
-        <a href="https://iqpager.quid.eu//books/iqpager/6744XKjNOE0y4c7TYF0G6744vuAMRCm0nG" target="_blank" rel="noopener noreferrer">E-katalog Access Kungaskogen handledning. Klicka här och läs!</a>
+        <a href="https://pub.mediapaper.se/ee1bafe2-45f3-4f07-a6d3-841543c83570" target="_blank" rel="noopener noreferrer">E-katalog Access Kungaskogen handledning. Klicka här och läs!</a>
       </div>
   </div>
 

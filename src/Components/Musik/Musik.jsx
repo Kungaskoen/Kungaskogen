@@ -89,15 +89,17 @@ const musik = props => (
         </a>
       </div>
 
-      <h4>CD-skivor och appar</h4>
+      <h4>CD-skivor och Appar</h4>
       <p>CD skivan används fortfarande inom förskola men kanske mindre i hem.
         Fortfarande finns CD spelaren i många bilar. Musiken finns också på
         Appar som vi kallar logg in appar. Appen kan laddas ned från Appstore
         men måste sen ha en kod för att öppnas. Användare med access
         kan få koderna till appar genom förlaget (villkor se i E-katalog,
         access och i webbshop). I nya beställningar av böcker och temapaket
-        följer kod med till App med musik, dialoger och berättelse. Vi söker
-        också efter streamade spelalternativ som inte är YouTube eller Spotify.</p>
+        följer kod med till App med musik, dialoger och berättelse.</p>
+
+        <a href="https://soundcloud.com/wasamusic/medley-kungaskogen-visor" target="_blank" rel="noopener noreferrer">Medley Kungaskogenvisor</a>
+        <br/>
 
       <h4>Här är alla sånger i Kungaskogen:</h4>
 
