@@ -89,9 +89,15 @@ const language = props => (
       <p><b>Lisa Grane, Autorin</b>: Kindheit ist das Wichtigste, was ein Kind hat. Ich möchte, dass jedes Kind der Welt lernt, einander zu achten und gute Freunde für eine bessere Welt zu sein. Deshalb erzähle ich die Geschichte der Freunde des Königswaldes.</p>
 
       <a href="https://soundcloud.com/wasamusic/konigswald-trailer" target="_blank" rel="noopener noreferrer">Königswald Präsentation Hörtrailer</a>
+      <br/>
+
+      <a href="https://vimeo.com/manage/videos/420658311" target="_blank" rel="noopener noreferrer">Präsentation der Freunde im Königswald. Video</a>
+
 
       <p>Der schwedische König und Königin Silvia hören Lieder aus dem Königswald</p>
-      <a href="https://www.youtube.com/watch?v=LfrfYrt8C2c" target="_blank" rel="noopener noreferrer">Siliva Lieder aus dem Königswald. YouTube</a>
+      <a href="https://www.youtube.com/watch?v=LfrfYrt8C2c" target="_blank" rel="noopener noreferrer">Königin Siliva. Lieder aus dem Königswald. YouTube</a>
+
+
 
       <h4>Spotify</h4>
       <p>Use key Word <b>königswald</b></p>
@@ -141,6 +147,9 @@ const language = props => (
 
       <br/>
       <a href="https://soundcloud.com/wasamusic/kongeskogen-trailer" target="_blank" rel="noopener noreferrer">Kongeskogen Presentasjon Trailer. Lytte.</a>
+      <br/>
+
+      <a href="https://vimeo.com/manage/videos/419843335" target="_blank" rel="noopener noreferrer">Kongeskogen presentasjion. Video</a>
       <br/>
       <a href="https://www.youtube.com/watch?v=2RoEMV5Zwuk" target="_blank" rel="noopener noreferrer">Raffe Räv Vrikke Vrikke. YouTube</a>
       <br/>
