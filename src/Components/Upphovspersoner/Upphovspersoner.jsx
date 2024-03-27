@@ -16,9 +16,10 @@ const upphovspersoner = props => (
       <div className="person-info">
         <h3>Författare</h3>
         <h4>Lisa dos Santos (Grane)</h4>
-        <p>Lisa, 38 år, tog sin juristexamen vid Lunds Universitet och gjorde sin notarietjänst
-          vid tingsrätten i Ystad. Lisa arbetar, vid sidan av sitt författarskap som kammaråklagare
-          i Stockholm. Lisa förekommer då och då i TV programmet Brottsplatsen.
+        <p>Lisa tog sin juristexamen vid Lunds Universitet och gjorde sin notarietjänst vid tingsrätten i Ystad.
+        Lisa arbetar vid sidan av sitt författarskap som kammaråklagare i Stockholm.
+        Lisa är aktiv i aktuell debatt och är flitigt anlitad i olika forum efter att skrivit en vuxenbok.
+        Lisa har varit nominerad till Augustpriset. Just nu är Lisa aktuell som krönikör i Dagens Industri. 
           Lisa debuterade som barnboksförfattare med bok- och musiksagan "Vännerna i Kungaskogen",
           där hon skrivit både sagan och musiktexterna. Lisa har också förekommit som textförfattare
           på Svensktoppen. Lisa fortsatte skrivandet och publicerade två nya manus i serien om Vännerna

@@ -14,7 +14,7 @@ const kontakt = props => (
       <h4>Kontaktadress</h4>
 
       <div className="compact">
-        <p>Förlagshuset Wasa </p>
+        <p>ILKA/Förlagshuset Wasa </p>
         <p>(ILKA Förlagsprodukter AB/ILKA Förskoleprodukter AB, Wasa Music AB, Wasa Barnteater)</p>
         <p>Box 4059</p>
         <p>203 11 Malmö</p>
@@ -27,13 +27,13 @@ const kontakt = props => (
       <br/>
 
       <div className="compact">
-        <p>Kundservice hjälper Dig med beställningar, förfrågningar, biljetter Bioteater, bokning av Raffe Räv, fakturor,   mm</p>
+        <p>Kundservice hjälper Dig med beställningar, förfrågningar, biljetter streamad teater, fakturor, mm</p>
         <p>Öppettider: </p>
-        <p>Vardagar 9.00 - 14.30 (fast vi brukar svara senare än så). </p>
+        <p>Vardagar 10.00 - 14.30 (fast vi brukar svara senare än så). </p>
         <p>Skulle vi inte svara så ser vi Ditt telefonnummer och vi ringer upp.</p>
       </div>
 
-      <p>Välkommen till Förlagshuset Wasa</p>
+      <p>Välkommen till ILKA/Förlagshuset Wasa</p>
     </div>
   </div>
 )

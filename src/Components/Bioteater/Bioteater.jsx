@@ -7,7 +7,7 @@ import './Bioteater.css';
 const bioteater = props => (
   <div className="column-container">
     <div className="bioteater-image">
-      <Image src="images/Teater/bioteater_ny.jpg" responsive/>
+      <Image src="images/Teater/bioteater_nyast.jpg" responsive/>
     </div>
 
     <div className="bioteater-info">
@@ -37,7 +37,7 @@ const bioteater = props => (
 
       <h4>Bokning</h4>
       <div className="compact">
-        <p>Bokning av bioteater görs på 040-12 00 12 eller idea@ilka.se</p>
+        <p>Bokning av streamad teater görs på 040-12 00 12 eller idea@ilka.se</p>
 
         <a href="https://www.edular.se/streaming" target="_blank" rel="noopener noreferrer">Bioteater Snick och Snack Vännerna i Kungaskogen. Streaming direkt på förskola.</a>
         <p>I länken finns all info om Bioteater Kungaskogen streaming direkt på förskola.</p>
@@ -45,11 +45,6 @@ const bioteater = props => (
 
       </div>
 
-      <h4>(Biografer) just nu inte aktuellt p.g.a. Covid-19.</h4>
-      <p>Vi samarbetar med så gott som alla Sveriges biografer; Filmstaden,
-        Svenska Bio, Folkets Hus och Parker, Eurostar, privata och kommunala
-        biografägare. Biografer som ska visa ”Bioteater Kungaskogen” kontakta oss
-        på 040-12 00 12 eller idea@ilka.se.</p>
 
       <h4>Arrangörer</h4>
 
@@ -59,9 +54,7 @@ const bioteater = props => (
         hälsar på”. Ett flertal såval kommuner som andra arrangörer har genomfört
         egna arrangemang. Kontakta 040 120012 eller idea@ilka.se</p>
 
-      <a href="http://iqpager.quid.eu/books/iqpager/4406/key1472638923" target="_blank" rel="noopener noreferrer">
-        Länk info externa arrangörer Bioteater
-      </a>
+
 
       <h4>Det är det bästa vi någonsin gjort på förskolan!</h4>
       <p><b>Förskola i Linköping</b>: <i>Det här är det bästa vi

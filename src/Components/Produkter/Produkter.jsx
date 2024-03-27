@@ -18,7 +18,7 @@ const produkter = props => (
     <div className="line"/>
 
     <div className="produkt-big">
-      <Image src="images/produkter/kojan.jpg" responsive />
+      <Image src="images/produkter/kojan_paketet_1.jpg" responsive />
       <p><b>Art.nr 4671</b> Temapaket 1 Kojan – Bok+2 CD+noter+Access</p>
       <p>BOK med totalt 48 sidor. Stort liggande format (30 cm x 20 cm) med
         BILDBEREÄTTELSE om kompisarna Snick och Snack som bygger en koja och
@@ -35,7 +35,7 @@ const produkter = props => (
     <div className="line"/>
 
     <div className="produkt-big">
-      <Image src="images/produkter/utflykt.jpg" responsive />
+      <Image src="images/produkter/utflykt_paketet_2.jpg" responsive />
       <p><b>Art.nr 4683</b> Temapaket Snick och Snack Vännerna i Kungaskogen går
         på utflykt. ( Vänskap, djur, natur, miljö, livsstil, hållbart, teknik,
           språk, matte mm)</p>
@@ -163,21 +163,9 @@ CE-märkt och testad enligt EN 71.</p>
     </div>
 
     <div className="produkt-rest">
-      <div className="rest-item">
-        <Image src="images/produkter/matteleken.jpg" responsive />
-        <p><b>Art.nr 2371 </b></p>
-        <p>Saker Kungaskogen Familjespel</p>
-      </div>
-      <div className="rest-item">
-        <Image src="images/produkter/quartetto.jpg" responsive />
-        <p><b>Art.nr 2372 </b></p>
-        <p>Matteleken Kungaskogen Familjespel</p>
-      </div>
-      <div className="rest-item">
-        <Image src="images/produkter/abc_app.jpg" responsive />
-        <p><b>Art.nr 4658</b></p>
-        <p>Kungaskogen ABC med Snick och Snack </p>
-      </div>
+
+
+
       <div className="rest-item">
         <Image src="images/produkter/sangboken_app.jpg" responsive />
         <p><b>Art.nr 4660</b></p>
@@ -186,26 +174,10 @@ CE-märkt och testad enligt EN 71.</p>
     </div>
 
     <div className="produkt-rest">
-      <div className="rest-item">
-        <Image src="images/produkter/kojan_app.jpg" responsive />
-        <p><b>Art.nr 4663 </b> Snick och Snack </p>
-        <p>Vännerna i Kungaskogen bygger en koja</p>
-      </div>
-      <div className="rest-item">
-        <Image src="images/produkter/utflykt_app.jpg" responsive />
-        <p><b>Art.nr 4664 </b> Snick och Snack </p>
-        <p>Vännerna i Kungaskogen går på utflykt</p>
-      </div>
-      <div className="rest-item">
-        <Image src="images/produkter/14sanger.jpg" responsive />
-        <p><b>Art.nr 4665 </b></p>
-        <p>14 sånger Kojan</p>
-      </div>
-      <div className="rest-item">
-        <Image src="images/produkter/19sanger.jpg" responsive />
-        <p><b>Art.nr 4666 </b></p>
-        <p>19 sånger Utflyk</p>
-      </div>
+
+
+
+
 
     </div>
   </div>

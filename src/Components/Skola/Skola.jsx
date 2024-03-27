@@ -23,7 +23,7 @@ const skola = props => (
 
         <h4>Förskola/skola</h4>
 
-        <p>Över 9000 förskolor/skolor arbetar med materialet ”Snick och Snack Vännerna i Kungaskogen”. Många använder materialet som genomgående tema år efter år och Snick och Snack genomsyrar hela verksamheten. Sagan bygger ju och stärker relationer. Berättelserna är
+        <p>Över 10 000 förskolor/skolor arbetar med materialet ”Snick och Snack Vännerna i Kungaskogen”. Många använder materialet som genomgående tema år efter år och Snick och Snack genomsyrar hela verksamheten. Sagan bygger ju och stärker relationer. Berättelserna är
           händelser som barnen enkelt kan relatera till! Och det är viktigt med empati och att alla får en bra värdegrund. Konfliktlösnsing blir också
 
           enklare när man kan relatera till alla händelser i Kungaskogen och hur Snack och Snack gjorde. Sången och musiken stärker upp budskapen!
@@ -38,8 +38,14 @@ const skola = props => (
           Högläsning - samtal - sång - lek - aktiviteter ute och inne - pyssel - drama - teater. Googla gärna på några sökord: kungaskogen, snick och
           snack, älgvis, bitis, Raffe räv.</p>
         <h4>Sociala medier</h4>
-        <p>Det finns en sluten Facebookgrupp som heter Kungaskogen som har uppkommit spontant genom användarna.
-          På Facebook finns också Bioteater Vännerna i Kungaskogen, info och aktuell turnéplan.</p>
+        <p>Instagram  <a href="https://www.instagram.com/kungaskogen/" target="_blank" rel="noopener noreferrer">@kungaskogen</a>  Följ oss. Här finns viktig information i flödet.</p>
+
+
+
+
+        <p>YouTube: Sökord "kungaskogen" "Raffe Räv" "ilka"</p>
+
+        <p>Facebook: Bioteater Vännerna i Kungaskogen. Det finns en sluten Facebookgrupp som heter Kungaskogen som har uppkommit spontant genom användarna.</p>
 
         <h4>Raffe Rävs brevlåda</h4>
         <p>Skriv och kommunicera med Raffe Räv.</p>

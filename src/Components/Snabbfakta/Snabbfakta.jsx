@@ -25,26 +25,32 @@ const snabbfakta = props => (
 
       <p> Börje Ahlstedt är berättare i den första boken.</p>
 
-      <p> I bilderböckerna finns också CD-skivor (finns också på App) och noter.</p>
+      <p> I bilderböckerna finns också CD-skivor <b>numera omgjorda till QR koder </b>och noter.</p>
 
       <p> Över 30 musiker och 15 skådespelare medverkar i de olika
         produktionerna.</p>
 
-      <p> Vännerna i Kungaskogen spelas som bioteater över hela Sverige och alla föreställningar är för det mesta utsålda. Förra året sågs föreställningarna av 20 000 barn på 47 platser i Sverige.</p>
+      <p> Vännerna i Kungaskogen spelas också som bioteater. Just nu är föreställningarna streamade och kan ses överallt t.ex. på en förskola. Förra året sågs föreställningarna av 20 000 barn.</p>
 
-      <p> YouTube: Sökord "Kungaskogen" eller "Raffe räv" Appstore: Sökord "Kungaskogen"</p>
+      <p> YouTube: Sökord "Kungaskogen" eller "Raffe räv" </p>
 
-      <p> 34 originalsånger finns till Kungaskogen. Många är redan barnviseklassiker. Kungaskogensångerna är förmodligen den mest använda barnmusiken på förskolan idag.</p>
+      <p> Spotify: Sökord "Kungaskogen" </p>
+
+      <p> Instagram @kungaskogen </p>
+
+      <p> Produkter: www.forskoleprodutker.se </p>
+
+      <p> 34 originalsånger finns till Kungaskogen. Många är redan barnviseklassiker.</p>
 
       <p> Sagan och musiken om Kungaskogen är skriven för 2000-talets barn.</p>
 
       <p> Kungaskogen har stor potential att bli en skandinavisk barnklassiker.</p>
 
-      <p> Kungaskogen är just nu Sveriges största barnbokssatsning med musik.</p>
+      <p> Kungaskogen är en av Sveriges största barnbokssatsning med musik.</p>
 
       <p> Kringprodukter har tagits fram kring sagan men det finns många fler möjligheter. Senaste produkter: Memo, Handdockor, Appar, Almanackstavla.</p>
 
-      <p>Över 9000 förskolor i Sverige har Kungaskogen.</p>
+      <p>Över 10000 förskolor i Sverige har Kungaskogen.</p>
       <p>Nära en miljon barn har mött sagofigurerna och musiken.</p>
 
       <p>Kompisarna i Kungaskogen är goda förebilder som

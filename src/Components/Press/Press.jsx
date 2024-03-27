@@ -10,30 +10,30 @@ const press = props => (
       <h3>Press</h3>
 
       <h4>PRESSRELEASE ”BIOTEATER VÄNNERNA I KUNGASKOGEN”</h4>
-      <p>Snart har 100 000 förskolebarn gått på bioteater för att se succèföreställning om vänskap.</p>
-      <p>Vi i malmö har snart lyckats samla 100 000 förskolebarn till bioteaterföreställningar i hela sverige.</p>
-      <p>Bioteatern ”vännerna i kungaskogen” har visats på över 50 orter i sverige från trelleborg i söder till boden i norr.</p>
-      <p>De flesta föreställningar är för det mesta utsålda och handlar om vänskap, respekt för andra och mot utanförskap och mobbning.</p>
-      <p>Sveriges första digitala barnteater (teater på bioduk; bioteater) visas nu för sjätte året i rad runtom i sverige.</p>
-      <p>Intresset från pedagoger och förskolor är rekordstort. Förskolebarnen kommer för att se när kompisarna ekorren snick och igelkotten snack från kungaskogen ska bygga en kompiskoja. Budskapet i sagan om vännerna i kungaskogen är viktigt; ”att vara schysst och en bra kompis”.</p>
-      <p>Flera av barnviseklassikerna från kungaskogen framförs och sjungs också på bioduken. I en av sångerna bjuds upp till dans i biosalongen.</p>
-      <p>De allra bästa musikerna och barnmusikalartisterna medverkar i sångproduktionerna. Föreställningen inleds av dramatenskådespelaren börje ahlstedt. På spotify (sökord kungaskogen) finns</p>
-      <p>några av de sånger som framförs i bok- och musiksagan, snick och snack vännerna i kungaskogen bygger en koja som över 9000 förskolor i sverige från ystad till haparanda använder.</p>
-      <p>Snick och snack är viktiga förebilder för barnen. Nu kan viktiga värdegrunder tillgängligöras i stora delar av sverige genom modern digital teknik när teaterversionen av verket ”vännerna i kungaskogen” också kan visas på bioduk.</p>
-      <p>Bioteatern vännerna i kungaskogen grundar sig på bok och musikverket ”vännerna i kungaskogen bygger en koja” som är producerad i malmö och som gjort succé på förskolor i hela sverige.</p>
+      <p>Över 150 000 förskolebarn gått på bioteater (bio eller streamad föreställning) och sett  succèföreställning om vänskap.
+Vi i malmö har snart lyckats samla 100 000 förskolebarn till bioteaterföreställningar i hela sverige.
+Bioteatern ”Vännerna i kungaskogen” har visats på Bio i över 50 orter i Sverige från Trelleborg i söder till Boden i norr. Numera streamas föreställningarna direkt på förskolor och visas varje tisdag, onsdag och torsdag hela året.
+De flesta föreställningar är för det mesta utsålda. Teaterföreställningen handlar om vänskap, respekt för andra och mot utanförskap och mobbning.
+Sveriges första digitala barnteater (teater på bioduk eller streamad teater; bioteater) visas nu för tionde året i rad runtom i Sverige.
+Intresset från pedagoger och förskolor har varit rekordstort. Förskolebarnen får se när kompisarna ekorren Snick och igelkotten Snack från Kungaskogen ska bygga en kompiskoja. Budskapet i sagan om Vännerna i Kungaskogen är viktigt; ”att vara schysst och en bra kompis”.
+Flera av barnviseklassikerna från Kungaskogen framförs och sjungs också i föreställningen. I en av sångerna bjuds alla upp till dans.
+De allra bästa musikerna och barnmusikalartisterna medverkar i sångproduktionerna. Föreställningen inleds av skådespelaren Börje Ahlstedt. På Spotify (sökord Kungaskogen, Snick & Snack) finns
+alla de sånger som framförs i bok- och musiksagan, Snick och Snack Vännerna i Kungaskogen bygger en koja som över 10 000 förskolor i Sverige från Ystad till Haparanda använder.
+Snick och Snack är viktiga förebilder för barnen. Nu kan viktiga värdegrunder tillgängligöras i stora delar av Sverige genom modern digital teknik när teaterversionen av verket ”Vännerna i Kungaskogen” också kan visas var som helst.
+Bioteatern Vännerna i Kungaskogen grundar sig på bok och musikverket ”Vännerna i Kungaskogen bygger en koja” som är producerad i Malmö och som gjort succé på förskolor i hela Sverige.</p>
 
       <h4>Medverkande i bioföreställningen</h4>
       <p>Berättare inledning: Börje Ahlstedt</p>
       <p>Musikalartister: My Johansson, Louisa Lyne och Tobias Kralmark. Regi: Magnus Ödéhn.</p>
-      <p>Sång på cd:n: Ville och Vännerorkestern.</p>
+      <p>Sång: Ville och Vännerorkestern</p>
       <p>Klippning och redigering: Good World AB Malmö</p>
       <p>Filmning: Solid Entertainment AB Malmö</p>
 
       <h4>Upphovspersoner till verket vännerna i kungaskogen</h4>
-      <p>Text och manus: Lisa Dos Santos</p>
-      <p>Musik: Lisa Dos Santos, Joc Lind, Vilhelm Ersmark</p>
+      <p>Text och manus: Lisa dos Santos</p>
+      <p>Musik: Lisa dos Santos, Joc Lind, Vilhelm Ersmark</p>
       <p>Förlag: ILKA Förlagsprodukter AB/Wasa Music AB Malmö</p>
-      <p>Spotify: använd sökord kungaskogen</p>
+      <p>Spotify: använd sökord Kungaskogen, Snick och Snack</p>
 
       <h4>Kontaktperson</h4>
       <p>040-120012 Ulf</p>

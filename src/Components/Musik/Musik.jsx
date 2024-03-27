@@ -22,11 +22,11 @@ const musik = props => (
         tydliga och lättsjungna melodier i olika musikstilar. Barnen
         identifierar sig i sångtexterna som de lätt lär sig utantill.</p>
 
-      <p>Musiken kan spelas från CD-skivor och musikappar. Alla verk finns som
+      <p>Musiken kan spelas från QR koder, Spotify, YouTube och för de som använder CD-skivor. Alla verk finns som
         noter med text och ackordanalyser i böckerna om ”Vännerna i
         Kungaskogen”. Noterna finns också i Accessen. Texterna finns också exakt
         som de sjungs på inspelningarna som extra dokument i Accessen. Enskilda
-         notsamlingar från musiken i Kungaskogen kan rekvireras från förlaget.</p>
+         notsamlingar från musiken i Kungaskogen kan rekvireras från förlaget. Förlaget kommer att ge ut en komplett sångbok med sångerna från Kungaskogen.</p>
 
       <h4>YOUTUBE</h4>
 
@@ -89,14 +89,10 @@ const musik = props => (
         </a>
       </div>
 
-      <h4>CD-skivor och Appar</h4>
-      <p>CD skivan används fortfarande inom förskola men kanske mindre i hem.
-        Fortfarande finns CD spelaren i många bilar. Musiken finns också på
-        Appar som vi kallar logg in appar. Appen kan laddas ned från Appstore
-        men måste sen ha en kod för att öppnas. Användare med access
-        kan få koderna till appar genom förlaget (villkor se i E-katalog,
-        access och i webbshop). I nya beställningar av böcker och temapaket
-        följer kod med till App med musik, dialoger och berättelse.</p>
+      <h4>Musik QR koder (tidigare CD-skivor)</h4>
+      <p>QR koder har i vår produktion ersatt CD skivan (men de finns fortfarande kvar).
+      QR koderna finns för förskolor i accessen och man kan spela upp musiks och dialoger direkt från QR koderna precis som en CD skiva.
+      Alla berättelser och musik finns även på Spotify. I nya beställningar av böcker och temapaket följer QR koder med leveransen.</p>
 
         <a href="https://soundcloud.com/wasamusic/medley-kungaskogen-visor" target="_blank" rel="noopener noreferrer">Medley Kungaskogenvisor</a>
         <br/>
@@ -105,7 +101,7 @@ const musik = props => (
 
       <h4>Sånger Bok 1 Vännerna i Kungaskogen bygger en koja</h4>
 
-      <p>Finns på CD 1 och CD 2 och på App 14 sånger</p>
+      <p>Finns på QR koder, Spotify (14 sånger), YouTube (14 sånger) och på CD 1 och CD 2.</p>
       <p>1. Vännervisan – <i>Vänskap på alla vis</i></p>
       <p>2. Egenskapsrapp – <i>Hur är du, hur är jag, vi är olika men lika bra</i></p>
       <p>3. Vicka vicka – <i>Ha kul tillsammans med rörelser</i></p>
@@ -120,7 +116,7 @@ const musik = props => (
       <p>12. Hipp hurra födelsedag – <i>Födelsedagsfirande</i></p>
 
       <h4>Sånger Bok 2 Vännerna i Kungaskogen går på utflykt</h4>
-      <p>Finns på CD 1, CD 2 och CD 3 och på App 19 sånger</p>
+      <p>Finns på QR koder, Spotify (19 sånger), YouTube (19 sånger) och på CD 1, CD 2 och CD 3.</p>
       <p>1. Kojanskoj – <i>Att vara kompisar och bygga en trädkoja</i></p>
       <p>2. Räknemagirock – <i>Vi räknar kompisar i Kungaskogen</i></p>
       <p>3. Ramseliramstrams – <i>Vi ramsar och tramsar</i></p>
@@ -145,13 +141,20 @@ const musik = props => (
       <p>1. Kinasången – <i>Kompisar i andra länder</i></p>
       <p>2. Hej Snick, hej Snack – <i>Kompisvisa</i></p>
       <p>3. Vännernas Jul – <i>Julvisa</i></p>
-      <p>1. och 2. finns på App 14 sånger. 3 ligger separat på fil i accessen och på YouTube.</p>
+      <p>1. och 2. finns på 14 sånger. 3 ligger separat på fil i accessen, Spotify och på You Tube.</p>
 
       <h4>Sociala medier</h4>
 
       <div className="compact">
-        <p>Facebook länk: Här finns Turnéplan och allt om musikteatern på bio, Vännerna i Kungaskogen.</p>
+        <p>Facebook länk: Här finns allt om teatern och hur man streamar vår teaterföreställning, Vännerna i Kungaskogen bygger en koja.</p>
         <a href="https://sv-se.facebook.com/pages/category/Website/Kungaskogen-Bioteater-686254724801813/" target="_blank" rel="noopener noreferrer" className="social-link">Facebook Bioteater Vännerna i Kungaskogen</a>
+      </div>
+
+      <br/>
+
+      <div className="compact">
+        <p>Instagram: Här finns ett helt flöde om Kungaskogen och vi lägger ut ny info hela tiden.</p>
+        <a href="https://www.instagram.com/kungaskogen/" target="_blank" rel="noopener noreferrer" className="social-link">@kungaskogen</a>
       </div>
 
       <br/>

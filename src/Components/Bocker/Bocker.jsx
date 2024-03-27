@@ -8,7 +8,7 @@ const bocker = props => (
   <div className="column-big-container">
 
     <div className="book-image">
-      <Image src="images/book/books_kojan_liggande_2000px.jpg" responsive/>
+      <Image src="images/book/kojan_paket_liggande_2024.jpg" responsive/>
     </div>
 
     <div className="column-big-info">
@@ -35,7 +35,7 @@ const bocker = props => (
       <p>Med boken följer en 2 timmars lång inspelning med berättelse (Börje Ahlstedt), dialoger (alla 7 karaktärerna) och 12 sångnummer.
         Sångerna anknyter till de värdegrunder som sagan tar upp. All musik är nyskriven på 2000 talet med tydliga och lättsjungna melodier
         i olika musikstilar. Barnen identifierar sig i sångtexterna som de lätt lär sig utantill. Sångerna är redan barnviseklassiker och
-        sjungs t ex på avslutningar, teatrar och familjeevents. Sångerna finns också separat som noter i boken och på CD eller App.
+        sjungs t ex på avslutningar, teatrar och familjeevents. Sångerna finns också separat som noter i boken och på QR koder (tidigare CD skivor).
         Läs om alla 25 st som deltagit i produktionen i <Link to="/medverkande" className="med-upp">Medverkanden</Link>.</p>
 
       <h4>Författare</h4>
@@ -51,7 +51,7 @@ const bocker = props => (
     <div className="line" />
 
     <div className="book-image">
-      <Image src="images/book/books_utflykt_liggande_2000px.jpg" responsive/>
+      <Image src="images/book/utflykt_paket_liggande_2024.jpg" responsive/>
     </div>
 
     <div className="column-big-info">
@@ -78,9 +78,8 @@ const bocker = props => (
       <p>Sagan om Vännerna i Kungaskogen är en saga som låter. Med boken följer en 3 timmars lång inspelning med
         berättelse, dialoger och 19 sångnummer. Sång och musik anknyter till de värdegrunder och händelser som
         sagan tar upp. All musik är nyskriven på med tydliga och lättsjungna melodier i olika musikstilar.
-        Barnen identifierar sig i sångtexterna som de lätt lär sig utantill. Sångerna finns också separat som noter
-        i boken och på CD eller App. Läs om alla som deltagit i produktionen i
-        <Link to="/medverkande" className="med-upp"> Medverkanden</Link>.</p>
+        Barnen identifierar sig i sångtexterna som de lätt lär sig utantill. Sångerna finns också separat som noter i boken och på QR koder (tidigare CD skivor).
+        Läs om alla 25 st som deltagit i produktionen i <Link to="/medverkande" className="med-upp"> Medverkanden</Link>.</p>
 
 
 

@@ -27,7 +27,7 @@ const musikforlag = props => (
         <p>idea@ilka.se</p>
       </div>
 
-      <p>Förlaget är medlem i Stim. Musiken på CD är NCB registrerad</p>
+      <p>Förlaget är medlem i Stim. Musiken är NCB registrerad. Text och kompositörer är också med i Skap.</p>
 
       <h4>Studio</h4>
       <p>Vi har egen inspelningsstudio och hjälper till med demos och musikinspelningar.
