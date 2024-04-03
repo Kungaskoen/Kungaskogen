@@ -12,8 +12,7 @@ const mera = props => (
         en gåva. Aktuell undersökning finns i Access Kungaskogen. Ibland kan den också skickas med mail till slumpmässigt utvalda användare.</p>
 
       <h4>Copyright</h4>
-      <p>All Copyright finns hos förlagen ILKA Förlagsprodukter AB och Wasa Music AB som äger alla rättigheter till ”Snack & Snack Vännerna i Kungaskogen”. För att alltid värna om kunder och upphovspersoner
-         i arbetet med Kungaskogen så arbetar förlaget tillsammans med Grünberger Advokater AB i upphovsrättsfrågor.</p>
+      <p>All Copyright finns hos förlagen ILKA Förlagsprodukter AB och Wasa Music AB som äger alla rättigheter till ”Snack & Snack Vännerna i Kungaskogen”.</p>
 
       <h4>Arrangörer Barn</h4>
       <p>Arrangörer (barnteater, events, familjeaktiviteter, barnkalas, projekt) kan alltid vända sig till förlaget för offert på uppträdande med dialog, sång, användande av varumärken i Kungaskogen, musik mm.</p>

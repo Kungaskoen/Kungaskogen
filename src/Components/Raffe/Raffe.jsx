@@ -19,16 +19,15 @@ const raffe = props => (
 
         <p>Barnen är med i föreställningen med dialog, dans, sång och rörelser. Föreställningen är hämtad ur böckerna om ”Vännerna i Kungaskogen”.</p>
 
-        <div className="compact">
-          <a href="http://wasaplay.se/index.php?about=77&page=about" target="_blank" rel="noopener noreferrer">Raffe räv hälsar på. Info förskola, bibliotek och events </a>
-          <a href="https://iqpager.quid.eu//books/iqpager/6133qT8tdb9Xay7XBS1z61331rcIz3h1IL#page/2%22" target="_blank" rel="noopener noreferrer">Raffe Räv hälsar på</a>
-          <p>I länken finns all information om föreställningen, pris etc.</p>
-        </div>
+
 
         <div className="compact">
           <h4>Bokning</h4>
           <p>Bokning av Raffe Räv görs på 040-12 00 12 eller idea@ilka.se</p>
         </div>
+
+        <p><font color="red">Just nu gör vi  inte föreställningar med Raffe Räv pga av att ny skådespelare eftersöks,
+Vi hänvisar till vår streamade teater.</font></p>
 
       </div>
   </div>

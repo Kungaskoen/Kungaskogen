@@ -38,9 +38,10 @@ const bioteater = props => (
       <h4>Bokning</h4>
       <div className="compact">
         <p>Bokning av streamad teater görs på 040-12 00 12 eller idea@ilka.se</p>
+        <p>Här finns länken om hela teatern och information om uppgifter för bokning:</p>
 
-        <a href="https://www.edular.se/streaming" target="_blank" rel="noopener noreferrer">Bioteater Snick och Snack Vännerna i Kungaskogen. Streaming direkt på förskola.</a>
-        <p>I länken finns all info om Bioteater Kungaskogen streaming direkt på förskola.</p>
+        <a href="https://www.edular.se/streaming" target="_blank" rel="noopener noreferrer">Teater - Förskoleprodukter (forskoleprodukter.se)</a>
+      
 
 
       </div>

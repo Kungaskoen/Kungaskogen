@@ -40,7 +40,7 @@ const play = props => (
             land och rike runt med de numera klassiska barnsångerna som Mora
             Träsk har skapat. Samarbetet består än idag då ILKA som förlag
             producerat ”Mora Träsk sånglekbok” som är en av de finaste utgivna
-            sångböckerna på 2000-talet. Över 10 000 ex är redan sålda av sångboken. </p>
+            sångböckerna på 2000-talet. Över 10 000 ex är sålda av sångboken. </p>
 
           <h4>Nya produktioner</h4>
           <p>ILKA fortsatte med barnunderhållning på 90-talet och nu med Ulf
@@ -69,9 +69,8 @@ const play = props => (
             Föreställningarna filmades av och vi klippte ihop filmmaterialet
             för att kunna visa på bioduk. Så skapades en ny succé, Bioteatern
             Vännerna i Kungaskogen – förmodligen Sveriges första digitala
-            barnteater. Nu har över 90 000 barn sett föreställningen från
-            Trelleborg i söder till Boden i norr. Turnén med Bioteater
-            fortsätter även detta år med över 20 000 besökare per år.</p>
+            barnteater. Över 100 000 barn sett föreställningen från Trelleborg i söder till Boden i norr och teatern har visats på över 60 platser i Sverige.
+Plöstligt kom pandemin 2020 och 2021 och satte stop för all publika sammankomster. Teatern lades om ett nytt medium, streaming och kunder fortsätta att visas hela tiden men nu på förskola och begränsade sammankomster, Mottagandet är fantastiskt och teatern fortsätter nu som streamad föreställning. Visas hela året tisdagar, onsdagar och torsdagar. Turnén med Streamad teater fortsätter. Nu har över 150 000 barns sett teaterföreställningen ”Vännerna i Kungaskogen”</p>
 
           <h4>Teater med tema vänskap</h4>
           <p>Teatern ”Vännerna i Kungaskogen” har ett aktuellt tema: att lära
@@ -84,19 +83,13 @@ const play = props => (
             Vi hoppas under kommande år att andra arrangörer ska upptäcka
             barnteatern ”Vännerna i Kungaskogen” och dess möjligheter.</p>
 
-          <h4>Bioteater Vännerna i Kungaskogen går för utsålda hus</h4>
+          <h4>Bioteater Vännerna i Kungaskogen</h4>
           <p>Trailer och info om förskolebion ”Bioteater Vännerna i Kungaskogen”
-            Klicka på länken! Bioteater Kungaskogen</p>
+            Klicka på länken! Bioteater Kungaskogen.</p>
 
         </div>
 
-        <p>Förra året spelades Bioteater Kungaskogen på 47 platser i hela
-          Sverige med hela 120 utsålda föreställningar. 20 000 barn kom
-          till föreställningarna med sina pedagoger som ger formen och
-          teaterupplevelsen på bioduk de allra högsta omdömena en
-          barnföreställning kan uppnå. Turnén fortsätter nu för 5 året i rad.
-          Vi besöker återigen både små kommuner och stora kommuner.</p>
-        <p>Turnén finns på våra hemsidor och på YouTube.</p>
+
 
     </div>
   </div>

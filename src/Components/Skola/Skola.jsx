@@ -47,8 +47,7 @@ const skola = props => (
 
         <p>Facebook: Bioteater Vännerna i Kungaskogen. Det finns en sluten Facebookgrupp som heter Kungaskogen som har uppkommit spontant genom användarna.</p>
 
-        <h4>Raffe Rävs brevlåda</h4>
-        <p>Skriv och kommunicera med Raffe Räv.</p>
+      
 
         <h4>Produkter</h4>
         <div className="compact">
@@ -67,8 +66,7 @@ const skola = props => (
           Arbetet med Kungaskogen är väldigt uppskattat av pedagoger, barn och föräldrar. Barnen har lätt att ta till sig karaktärerna och vi pedagoger kan smidigt ta upp
           ett dilemma som hänt på avdelningen med hjälp av karaktärerna. Bra att det finns så mycket material på accessidan att välja på.</i> <b>Jakobsbergsskogens förskola</b></p>
 
-        <p><i>Kungaskogen är ett komplett material där alla läroplanens mål är samlade. Det fångar barnen och de känner igen flera av situationerna. Barnen kan lätt iden-
-          tifiera sig med djuren. Vi har ett projekt på vår förskola som sträcker sig över tre år. Det projektet handlar om kost och hälsa, lära barnen vikten av att äta
+        <p><i>Kungaskogen är ett komplett material där alla läroplanens mål är samlade. Det fångar barnen och de känner igen flera av situationerna. Barnen kan lätt identifiera sig med djuren. Vi har ett projekt på vår förskola som sträcker sig över tre år. Det projektet handlar om kost och hälsa, lära barnen vikten av att äta
           rätt, rörelse, värna om sin hälsa och att det är viktigt med återhämtning och att värna om varandra. Det är lätt att väva in det i Kungaskogen. Känns som att
           det går hand i hand.</i> <b>Förskolan Myrstacken</b></p>
 
